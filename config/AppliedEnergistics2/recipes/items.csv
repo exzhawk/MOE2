@@ -2714,6 +2714,45 @@ Botania:pavement4Slab:0, 黄色葡萄牙台阶
 Botania:pavement4SlabFull:0, 黄色葡萄牙台阶
 Botania:pavement5Slab:0, 绿色葡萄牙台阶
 Botania:pavement5SlabFull:0, 绿色葡萄牙台阶
+BuildCraft|Core:eternalSpring:0, 水泉
+BuildCraft|Core:eternalSpring:1, 油泉
+BuildCraft|Core:buildToolBlock, tile.buildToolBlock.name
+BuildCraft|Core:engineBlock:0, 红石引擎
+BuildCraft|Core:engineBlock:1, 斯特林引擎
+BuildCraft|Core:engineBlock:2, 燃油引擎
+BuildCraft|Core:engineBlock:3, 创造引擎
+BuildCraft|Core:markerBlock, 地标
+BuildCraft|Core:pathMarkerBlock, 路径标
+BuildCraft|Transport:filteredBufferBlock, 过滤缓存器
+BuildCraft|Transport:pipeBlock, tile.pipeBlock.name
+BuildCraft|Silicon:laserBlock, 镭射器
+BuildCraft|Silicon:laserTableBlock:0, 装配台
+BuildCraft|Silicon:laserTableBlock:1, 高级工作台
+BuildCraft|Silicon:laserTableBlock:2, 集成台
+BuildCraft|Silicon:laserTableBlock:3, 充能台
+BuildCraft|Silicon:laserTableBlock:4, 编程台
+BuildCraft|Silicon:laserTableBlock:5, 压印台
+BuildCraft|Silicon:packagerBlock, 配方封包器
+BuildCraft|Energy:blockOil, 原油
+BuildCraft|Energy:blockFuel, 燃油
+BuildCraft|Energy:blockRedPlasma, tile.blockRedPlasma.name
+BuildCraft|Factory:miningWellBlock, 矿井
+BuildCraft|Factory:plainPipeBlock, 采矿管道
+BuildCraft|Factory:autoWorkbenchBlock, 自动合成台
+BuildCraft|Factory:tankBlock, 储罐
+BuildCraft|Factory:pumpBlock, 液泵
+BuildCraft|Factory:floodGateBlock, 液闸
+BuildCraft|Factory:refineryBlock, 精炼厂
+BuildCraft|Factory:blockHopper, 料斗
+BuildCraft|Builders:machineBlock, 采石场
+BuildCraft|Builders:fillerBlock, 填充机
+BuildCraft|Builders:frameBlock, 框架
+BuildCraft|Builders:builderBlock, 建筑机
+BuildCraft|Builders:architectBlock, 建筑工作台
+BuildCraft|Builders:libraryBlock, 电子档案馆
+BuildCraft|Builders:constructionMarkerBlock, 建设标
+BuildCraft|Robotics:zonePlan, 区域规划机
+BuildCraft|Robotics:requester, 请求机
 CarpentersBlocks:blockCarpentersBlock, 木匠方块
 CarpentersBlocks:blockCarpentersBarrier, 木匠栅栏
 CarpentersBlocks:blockCarpentersBed, 木匠床
@@ -3000,7 +3039,7 @@ extracells:vibrantchamberfluid, 流体谐振仓
 ExtraUtilities:chestMini, 迷你箱
 ExtraUtilities:chestFull, 微型箱
 ExtraUtilities:enderCollector, 末影收集器
-ExtraUtilities:endConstructor:0, QED(量子末影设备Quantum Ender Device)
+ExtraUtilities:endConstructor:0, QED(相当贵饰品Quite Expensive Decoration)
 ExtraUtilities:endConstructor:2, 末影潮汐水晶
 ExtraUtilities:endMarker, 末影路标
 ExtraUtilities:curtains, 黑幕布帘
@@ -4691,6 +4730,7 @@ appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 蓝色葡萄牙台阶
 appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 红色葡萄牙台阶
 appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 黄色葡萄牙台阶
 appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 绿色葡萄牙台阶
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - tile.buildToolBlock.name
 appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 工厂机械块
 appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 橡胶木
 appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 橡胶木
@@ -5233,7 +5273,6 @@ appliedenergistics2:item.ItemMultiMaterial:47, 奇点
 appliedenergistics2:item.ItemMultiMaterial:45, 陨石粉
 appliedenergistics2:item.ItemMultiMaterial:41, 无线接收器
 appliedenergistics2:item.ItemMultiMaterial:42, 无线信号增幅器
-appliedenergistics2:item.ItemMultiMaterial:40, 木齿轮
 appliedenergistics2:item.ItemMultiPart:300, ME破坏面板
 appliedenergistics2:item.ItemMultiPart:120, 线缆锚
 appliedenergistics2:item.ItemMultiPart:20, ME包层线缆 - 白色
@@ -6765,6 +6804,114 @@ Botania:gaiaHead, item.gaiaHead.name
 Botania:sextant, item.sextant.name
 Botania:speedUpBelt, item.speedUpBelt.name
 Botania:baubleBox, item.baubleBox.name
+BuildCraft|Core:wrenchItem, 扳手
+BuildCraft|Core:mapLocation, 定位图纸
+BuildCraft|Core:list:0, 列表
+BuildCraft|Core:list:1, 列表
+BuildCraft|Core:debugger, 调试器
+BuildCraft|Core:woodenGearItem, 木齿轮
+BuildCraft|Core:stoneGearItem, 石齿轮
+BuildCraft|Core:ironGearItem, 铁齿轮
+BuildCraft|Core:goldGearItem, 金齿轮
+BuildCraft|Core:diamondGearItem, 钻石齿轮
+BuildCraft|Core:paintbrush, 颜料刷
+BuildCraft|Transport:pipeWaterproof, 管道密封剂
+BuildCraft|Transport:item.buildcraftPipe.pipeitemswood:0, 木质管道
+BuildCraft|Transport:item.buildcraftPipe.pipeitemsemerald:0, 绿宝石管道
+BuildCraft|Transport:item.buildcraftPipe.pipeitemscobblestone:0, 圆石管道
+BuildCraft|Transport:item.buildcraftPipe.pipeitemsstone:0, 石头管道
+BuildCraft|Transport:item.buildcraftPipe.pipeitemsquartz:0, 石英管道
+BuildCraft|Transport:item.buildcraftPipe.pipeitemsiron:0, 铁质管道
+BuildCraft|Transport:item.buildcraftPipe.pipeitemsgold:0, 金质管道
+BuildCraft|Transport:item.buildcraftPipe.pipeitemsdiamond:0, 钻石管道
+BuildCraft|Transport:item.buildcraftPipe.pipeitemsobsidian:0, 黑曜石管道
+BuildCraft|Transport:item.buildcraftPipe.pipeitemslapis:0, 青金石管道
+BuildCraft|Transport:item.buildcraftPipe.pipeitemsdaizuli:0, 靛金刚管道
+BuildCraft|Transport:item.buildcraftPipe.pipeitemssandstone:0, 沙石管道
+BuildCraft|Transport:item.buildcraftPipe.pipeitemsvoid:0, 虚空管道
+BuildCraft|Transport:item.buildcraftPipe.pipeitemsemzuli:0, 靛翡翠管道
+BuildCraft|Transport:item.buildcraftPipe.pipeitemsstripes:0, 条纹管道
+BuildCraft|Transport:item.buildcraftPipe.pipeitemsclay:0, 粘土管道
+BuildCraft|Transport:item.buildcraftPipe.pipefluidswood:0, 木质流体管道
+BuildCraft|Transport:item.buildcraftPipe.pipefluidscobblestone:0, 圆石流体管道
+BuildCraft|Transport:item.buildcraftPipe.pipefluidsstone:0, 石头流体管道
+BuildCraft|Transport:item.buildcraftPipe.pipefluidsquartz:0, 石英流体管道
+BuildCraft|Transport:item.buildcraftPipe.pipefluidsiron:0, 铁质流体管道
+BuildCraft|Transport:item.buildcraftPipe.pipefluidsgold:0, 金质流体管道
+BuildCraft|Transport:item.buildcraftPipe.pipefluidsemerald:0, 绿宝石流体管道
+BuildCraft|Transport:item.buildcraftPipe.pipefluidsdiamond:0, 钻石流体管道
+BuildCraft|Transport:item.buildcraftPipe.pipefluidssandstone:0, 沙石流体管道
+BuildCraft|Transport:item.buildcraftPipe.pipefluidsvoid:0, 虚空流体管道
+BuildCraft|Transport:item.buildcraftPipe.pipefluidsclay:0, 粘土流体管道
+BuildCraft|Transport:item.buildcraftPipe.pipepowerwood:0, 木质能量管道
+BuildCraft|Transport:item.buildcraftPipe.pipepowercobblestone:0, 圆石能量管道
+BuildCraft|Transport:item.buildcraftPipe.pipepowerstone:0, 石头能量管道
+BuildCraft|Transport:item.buildcraftPipe.pipepowerquartz:0, 石英能量管道
+BuildCraft|Transport:item.buildcraftPipe.pipepoweriron:0, 铁质能量管道
+BuildCraft|Transport:item.buildcraftPipe.pipepowergold:0, 金质能量管道
+BuildCraft|Transport:item.buildcraftPipe.pipepowerdiamond:0, 钻石能量管道
+BuildCraft|Transport:item.buildcraftPipe.pipepoweremerald:0, 绿宝石能量管道
+BuildCraft|Transport:item.buildcraftPipe.pipepowersandstone:0, 沙石能量管道
+BuildCraft|Transport:item.buildcraftPipe.pipestructurecobblestone:0, 圆石建筑管道
+BuildCraft|Transport:pipeWire:0, 红色管线
+BuildCraft|Transport:pipeWire:1, 蓝色管线
+BuildCraft|Transport:pipeWire:2, 绿色管线
+BuildCraft|Transport:pipeWire:3, 黄色管线
+BuildCraft|Transport:pipeGate, item.pipeGate.name
+BuildCraft|Transport:pipePlug, item.pipePlug.name
+BuildCraft|Transport:pipeLens:0, 透镜 (黑色)
+BuildCraft|Transport:pipeLens:1, 透镜 (红色)
+BuildCraft|Transport:pipeLens:2, 透镜 (绿色)
+BuildCraft|Transport:pipeLens:3, 透镜 (棕色)
+BuildCraft|Transport:pipeLens:4, 透镜 (蓝色)
+BuildCraft|Transport:pipeLens:5, 透镜 (紫色)
+BuildCraft|Transport:pipeLens:6, 透镜 (青色)
+BuildCraft|Transport:pipeLens:7, 透镜 (浅灰色)
+BuildCraft|Transport:pipeLens:8, 透镜 (灰色)
+BuildCraft|Transport:pipeLens:9, 透镜 (粉色)
+BuildCraft|Transport:pipeLens:10, 透镜 (柠檬色)
+BuildCraft|Transport:pipeLens:11, 透镜 (黄色)
+BuildCraft|Transport:pipeLens:12, 透镜 (浅蓝色)
+BuildCraft|Transport:pipeLens:13, 透镜 (品红色)
+BuildCraft|Transport:pipeLens:14, 透镜 (橙色)
+BuildCraft|Transport:pipeLens:15, 透镜 (白色)
+BuildCraft|Transport:pipeLens:16, 滤镜 (黑色)
+BuildCraft|Transport:pipeLens:17, 滤镜 (红色)
+BuildCraft|Transport:pipeLens:18, 滤镜 (绿色)
+BuildCraft|Transport:pipeLens:19, 滤镜 (棕色)
+BuildCraft|Transport:pipeLens:20, 滤镜 (蓝色)
+BuildCraft|Transport:pipeLens:21, 滤镜 (紫色)
+BuildCraft|Transport:pipeLens:22, 滤镜 (青色)
+BuildCraft|Transport:pipeLens:23, 滤镜 (浅灰色)
+BuildCraft|Transport:pipeLens:24, 滤镜 (灰色)
+BuildCraft|Transport:pipeLens:25, 滤镜 (粉色)
+BuildCraft|Transport:pipeLens:26, 滤镜 (柠檬色)
+BuildCraft|Transport:pipeLens:27, 滤镜 (黄色)
+BuildCraft|Transport:pipeLens:28, 滤镜 (浅蓝色)
+BuildCraft|Transport:pipeLens:29, 滤镜 (品红色)
+BuildCraft|Transport:pipeLens:30, 滤镜 (橙色)
+BuildCraft|Transport:pipeLens:31, 滤镜 (白色)
+BuildCraft|Transport:pipeLens:32, 透镜 (Clear)
+BuildCraft|Transport:pipeLens:33, 滤镜 (Clear)
+BuildCraft|Transport:pipePowerAdapter, item.pipePowerAdapter.name
+BuildCraft|Transport:gateCopier, 门设拷贝器
+BuildCraft|Silicon:redstoneChipset:0, 红石芯片
+BuildCraft|Silicon:redstoneChipset:1, 铁质芯片
+BuildCraft|Silicon:redstoneChipset:2, 金质芯片
+BuildCraft|Silicon:redstoneChipset:3, 钻石芯片
+BuildCraft|Silicon:redstoneChipset:4, 脉冲芯片
+BuildCraft|Silicon:redstoneChipset:5, 石英芯片
+BuildCraft|Silicon:redstoneChipset:6, 红石比较芯片
+BuildCraft|Silicon:redstoneChipset:7, 绿宝石芯片
+BuildCraft|Silicon:package, 包
+BuildCraft|Silicon:redstoneCrystal, 红石晶体
+BuildCraft|Energy:bucketOil, 原油桶
+BuildCraft|Energy:bucketFuel, 燃油桶
+BuildCraft|Builders:templateItem, 模版
+BuildCraft|Builders:blueprintItem, 蓝图
+BuildCraft|Robotics:robot, 机器人
+BuildCraft|Robotics:robotStation, item.robotStation.name
+BuildCraft|Robotics:redstone_board, 红石板
 CarpentersBlocks:itemCarpentersHammer, 木匠锤
 CarpentersBlocks:itemCarpentersChisel, 木匠凿
 CarpentersBlocks:itemCarpentersTile, 木匠瓷砖
@@ -9752,6 +9899,14 @@ ThermalDynamics:cover:0, 黄色葡萄牙台阶 覆盖板
 ThermalDynamics:cover:0, 黄色葡萄牙台阶 覆盖板
 ThermalDynamics:cover:0, 绿色葡萄牙台阶 覆盖板
 ThermalDynamics:cover:0, 绿色葡萄牙台阶 覆盖板
+ThermalDynamics:cover:0, 水泉 覆盖板
+ThermalDynamics:cover:0, 油泉 覆盖板
+ThermalDynamics:cover:0, tile.buildToolBlock.name 覆盖板
+ThermalDynamics:cover:0, 原油 覆盖板
+ThermalDynamics:cover:0, 燃油 覆盖板
+ThermalDynamics:cover:0, tile.blockRedPlasma.name 覆盖板
+ThermalDynamics:cover:0, 采矿管道 覆盖板
+ThermalDynamics:cover:0, 框架 覆盖板
 ThermalDynamics:cover:0, 工厂机械块 覆盖板
 ThermalDynamics:cover:0, 可编程红石网络控制器外壳 覆盖板
 ThermalDynamics:cover:0, 货运装载轨道 覆盖板
