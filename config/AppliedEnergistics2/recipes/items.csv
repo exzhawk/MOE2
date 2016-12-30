@@ -352,119 +352,52 @@ appliedenergistics2:tile.ChiseledQuartzSlabBlock:0, 錾制赛特斯石英台阶
 appliedenergistics2:tile.ChiseledQuartzSlabBlock.double:0, 錾制赛特斯石英台阶
 appliedenergistics2:tile.QuartzPillarSlabBlock:0, 竖纹赛特斯石英台阶
 appliedenergistics2:tile.QuartzPillarSlabBlock.double:0, 竖纹赛特斯石英台阶
-BiblioCraft:tile.BiblioFramedChest:0, 镶框箱子
-BiblioCraft:BiblioPaneler:0, 橡木家具板材机
-BiblioCraft:BiblioPaneler:1, 云杉家具板材机
-BiblioCraft:BiblioPaneler:2, 桦木家具板材机
-BiblioCraft:BiblioPaneler:3, 丛林木家具板材机
-BiblioCraft:BiblioPaneler:4, 金合欢家具板材机
-BiblioCraft:BiblioPaneler:5, 深色橡木家具板材机
-BiblioCraft:BiblioPaneler:6, 镶框家具板材机
-BiblioCraft:BiblioClipboard, tile.BiblioClipboard.name
-BiblioCraft:BiblioTypewriter:0, 白色打字机
-BiblioCraft:BiblioTypewriter:1, 浅蓝色打字机
-BiblioCraft:BiblioTypewriter:2, 灰色打字机
-BiblioCraft:BiblioTypewriter:3, 黑色打字机
-BiblioCraft:BiblioTypewriter:4, 红色打字机
-BiblioCraft:BiblioTypewriter:5, 橙色打字机
-BiblioCraft:BiblioTypewriter:6, 黄色打字机
-BiblioCraft:BiblioTypewriter:7, 柠檬色打字机
-BiblioCraft:BiblioTypewriter:8, 绿色打字机
-BiblioCraft:BiblioTypewriter:9, 青色打字机
-BiblioCraft:BiblioTypewriter:10, 浅蓝色打字机
-BiblioCraft:BiblioTypewriter:11, 蓝色打字机
-BiblioCraft:BiblioTypewriter:12, 紫色打字机
-BiblioCraft:BiblioTypewriter:13, 品红色打字机
-BiblioCraft:BiblioTypewriter:14, 粉色打字机
-BiblioCraft:BiblioTypewriter:15, 棕色打字机
-BiblioCraft:BiblioClock:0, 橡木时钟
-BiblioCraft:BiblioClock:1, 云杉时钟
-BiblioCraft:BiblioClock:2, 桦木时钟
-BiblioCraft:BiblioClock:3, 丛林木时钟
-BiblioCraft:BiblioClock:4, 金合欢时钟
-BiblioCraft:BiblioClock:5, 深色橡木时钟
-BiblioCraft:BiblioClock:6, 镶框钟
-BiblioCraft:BiblioFlatPainting:0, 橡木画框
-BiblioCraft:BiblioFlatPainting:1, 云杉画框
-BiblioCraft:BiblioFlatPainting:2, 桦木画框
-BiblioCraft:BiblioFlatPainting:3, 丛林木画框
-BiblioCraft:BiblioFlatPainting:4, 金合欢画框
-BiblioCraft:BiblioFlatPainting:5, 深色橡木画框
-BiblioCraft:BiblioFlatPainting:6, 镶框画框
-BiblioCraft:BiblioSimplePainting:0, 橡木画框
-BiblioCraft:BiblioSimplePainting:1, 云杉画框
-BiblioCraft:BiblioSimplePainting:2, 桦木画框
-BiblioCraft:BiblioSimplePainting:3, 丛林木画框
-BiblioCraft:BiblioSimplePainting:4, 金合欢画框
-BiblioCraft:BiblioSimplePainting:5, 深色橡木画框
-BiblioCraft:BiblioSimplePainting:6, 镶框画框
-BiblioCraft:BiblioMiddlePainting:0, 橡木画框
-BiblioCraft:BiblioMiddlePainting:1, 云杉画框
-BiblioCraft:BiblioMiddlePainting:2, 桦木画框
-BiblioCraft:BiblioMiddlePainting:3, 丛林木画框
-BiblioCraft:BiblioMiddlePainting:4, 金合欢画框
-BiblioCraft:BiblioMiddlePainting:5, 深色橡木画框
-BiblioCraft:BiblioMiddlePainting:6, 镶框画框
-BiblioCraft:BiblioFancyPainting:0, 橡木画框
-BiblioCraft:BiblioFancyPainting:1, 云杉画框
-BiblioCraft:BiblioFancyPainting:2, 桦木画框
-BiblioCraft:BiblioFancyPainting:3, 丛林木画框
-BiblioCraft:BiblioFancyPainting:4, 金合欢画框
-BiblioCraft:BiblioFancyPainting:5, 深色橡木画框
-BiblioCraft:BiblioFancyPainting:6, 镶框画框
-BiblioCraft:BiblioBorderlessPainting:0, 橡木画框
-BiblioCraft:BiblioBorderlessPainting:1, 云杉画框
-BiblioCraft:BiblioBorderlessPainting:2, 桦木画框
-BiblioCraft:BiblioBorderlessPainting:3, 丛林木画框
-BiblioCraft:BiblioBorderlessPainting:4, 金合欢画框
-BiblioCraft:BiblioBorderlessPainting:5, 深色橡木画框
-BiblioCraft:BiblioBorderlessPainting:6, 镶框画框
-BiblioCraft:BiblioPaintPress, 压印机
-BiblioCraft:BiblioSwordPedestal:0, 剑座
-BiblioCraft:BiblioSwordPedestal:1, 剑座
-BiblioCraft:BiblioSwordPedestal:2, 剑座
-BiblioCraft:BiblioSwordPedestal:3, 剑座
-BiblioCraft:BiblioSwordPedestal:4, 剑座
-BiblioCraft:BiblioSwordPedestal:5, 剑座
-BiblioCraft:BiblioSwordPedestal:6, 剑座
-BiblioCraft:BiblioSwordPedestal:7, 剑座
-BiblioCraft:BiblioSwordPedestal:8, 剑座
-BiblioCraft:BiblioSwordPedestal:9, 剑座
-BiblioCraft:BiblioSwordPedestal:10, 剑座
-BiblioCraft:BiblioSwordPedestal:11, 剑座
-BiblioCraft:BiblioSwordPedestal:12, 剑座
-BiblioCraft:BiblioSwordPedestal:13, 剑座
-BiblioCraft:BiblioSwordPedestal:14, 剑座
-BiblioCraft:BiblioSwordPedestal:15, 剑座
-BiblioCraft:BiblioFancySign:0, 橡木精致木牌
-BiblioCraft:BiblioFancySign:1, 云杉精致木牌
-BiblioCraft:BiblioFancySign:2, 桦木精致木牌
-BiblioCraft:BiblioFancySign:3, 丛林精致木牌
-BiblioCraft:BiblioFancySign:4, 金合欢精致木牌
-BiblioCraft:BiblioFancySign:5, 深色橡木精致木牌
-BiblioCraft:BiblioFancySign:6, 镶框精致木牌
-BiblioCraft:BiblioWorkbench:0, 橡木精致工作台
-BiblioCraft:BiblioWorkbench:1, 云杉精致工作台
-BiblioCraft:BiblioWorkbench:2, 桦木精致工作台
-BiblioCraft:BiblioWorkbench:3, 丛林精致工作台
-BiblioCraft:BiblioWorkbench:4, 金合欢精致工作台
-BiblioCraft:BiblioWorkbench:5, 深色橡木精致工作台
-BiblioCraft:BiblioWorkbench:6, 镶框精致工作台
-BiblioCraft:BiblioBell, 按铃
-BiblioCraft:Bibliotheca:0, 橡木书架
-BiblioCraft:Bibliotheca:1, 云杉木书架
-BiblioCraft:Bibliotheca:2, 白桦木书架
-BiblioCraft:Bibliotheca:3, 丛林木书架
-BiblioCraft:Bibliotheca:4, 金合欢书架
-BiblioCraft:Bibliotheca:5, 深色橡木书架
-BiblioCraft:Bibliotheca:6, 镶框书架
-BiblioCraft:BookcaseFilled:0, 橡木书架
-BiblioCraft:BookcaseFilled:1, 云杉木书架
-BiblioCraft:BookcaseFilled:2, 白桦木书架
-BiblioCraft:BookcaseFilled:3, 丛林木书架
-BiblioCraft:BookcaseFilled:4, 金合欢书架
-BiblioCraft:BookcaseFilled:5, 深色橡木书架
-BiblioCraft:BookcaseFilled:6, 镶框书架
+BambooMod:bamboo, 竹子
+BambooMod:bamboosingle, tile.bamboosingle.name
+BambooMod:bamboo2, Bamboo
+BambooMod:blockbambooshoot, 竹笋
+BambooMod:singleTexDeco:0, 竹方块
+BambooMod:kitunebi, 狐火
+BambooMod:jpChest, 日式衣柜
+BambooMod:dirSquare:0, 叠席
+BambooMod:dirSquare:4, 茅草方块
+BambooMod:dirSquare:8, 叠席(泛黄)
+BambooMod:dirSquare:10, 没有边缘的叠席(泛黄)
+BambooMod:dirSquare:12, 没有边缘的叠席
+BambooMod:halfDirSquare:0, 叠席台阶
+BambooMod:halfDirSquare:4, 茅草台阶
+BambooMod:halfDirSquare:8, 叠席台阶(泛黄)
+BambooMod:halfDirSquare:10, 没有边缘的叠席台阶(泛黄)
+BambooMod:halfDirSquare:12, 没有边缘的叠席台阶
+BambooMod:andon, 灯笼
+BambooMod:bambooPanel:0, 竹篱笆
+BambooMod:bambooPanel:1, 楣窗
+BambooMod:bambooPanel:2, 竹篱笆
+BambooMod:bambooPanel:3, 竹篱笆
+BambooMod:bambooPanel:4, 门帘(蓝)
+BambooMod:bambooPanel:5, 门帘(紫)
+BambooMod:bambooPanel:6, 竹帘
+BambooMod:sakuraLeaves:0, 樱花
+BambooMod:sakuraLeaves:1, 樱花
+BambooMod:sakuraLeaves:2, 樱花
+BambooMod:sakuraLeaves:3, 樱花
+BambooMod:sakuraLeaves:4, 樱花
+BambooMod:sakuraLeaves:5, 樱花
+BambooMod:sakuraLeaves:6, 樱花
+BambooMod:sakuraLeaves:7, 樱花
+BambooMod:sakuraLeaves:8, 樱花
+BambooMod:sakuraLeaves:9, 樱花
+BambooMod:sakuraLeaves:10, 樱花
+BambooMod:sakuraLeaves:11, 樱花
+BambooMod:sakuraLeaves:12, 樱花
+BambooMod:sakuraLeaves:13, 樱花
+BambooMod:sakuraLeaves:14, 樱花
+BambooMod:sakuraLeaves:15, 樱花
+BambooMod:sakuraSapling, 樱树苗 
+BambooMod:kayabukiRoof, 茅草楼梯
+BambooMod:spaWater, 温泉水
+BambooMod:spaUnit, 温泉器 
+BambooMod:sakuraLog, 樱木
 minecraft:iron_shovel, 铁锹
 minecraft:iron_pickaxe, 铁镐
 minecraft:iron_axe, 铁斧
@@ -729,6 +662,217 @@ minecraft:netherbrick, 地狱砖
 minecraft:quartz, 下界石英
 minecraft:tnt_minecart, TNT矿车
 minecraft:hopper_minecart, 漏斗矿车
+BambooMod:delude_width, 模仿台阶
+BambooMod:delude_height, 模仿台阶垂直
+BambooMod:delude_stair, 模仿楼梯
+BambooMod:campfire, 营火
+BambooMod:deco:0, 灰泥
+BambooMod:deco:1, 菱纹墙
+BambooMod:deco:2, 方格花纹(橡)
+BambooMod:deco:3, 方格花纹(松)
+BambooMod:deco:4, 方格花纹(白桦)
+BambooMod:deco:5, 瓦方块
+BambooMod:halfDeco:0, 灰泥台阶
+BambooMod:halfDeco:1, 菱纹墙台阶
+BambooMod:halfDeco:2, 方格花纹台阶(橡)
+BambooMod:halfDeco:3, 方格花纹台阶(松)
+BambooMod:halfDeco:4, 方格花纹台阶(白桦)
+BambooMod:halfDeco:5, 瓦台阶
+BambooMod:twoDirDeco:0, 百叶窗板
+BambooMod:twoDirDeco:2, 樱木板
+BambooMod:twoDirDeco:4, 秸秆方块
+BambooMod:halfTwoDirDeco:0, 瓦楼梯
+BambooMod:halfTwoDirDeco:2, 樱木台阶
+BambooMod:halfTwoDirDeco:4, 秸秆台阶
+minecraft:iron_horse_armor, 铁马铠
+minecraft:golden_horse_armor, 金马铠
+minecraft:diamond_horse_armor, 钻石马铠
+minecraft:lead, 拴绳
+minecraft:name_tag, 命名牌
+minecraft:command_block_minecart, 命令方块矿车
+BambooMod:kawara_stair, 瓦楼梯
+BambooMod:wara_stair, 秸秆楼梯
+BambooMod:decoCarpet:0, 草席
+BambooMod:decoCarpet:2, 茅草地毯
+BambooMod:decoCarpet:4, 草席(泛黄)
+BambooMod:decoCarpet:6, 没有边缘的草席(泛黄)
+BambooMod:decoCarpet:8, 没有边缘的草席
+BambooMod:thickSakuraPillar, 樱木支柱(粗)
+BambooMod:thinSakuraPillar, 樱木支柱(细)
+BambooMod:thickOrcPillar, 橡木支柱(粗)
+BambooMod:thinOrcPillar, 橡木支柱(细)
+BambooMod:thickSprucePillar, 松支柱(粗)
+BambooMod:thinSprucePillar, 松支柱(细)
+BambooMod:thickBirchPillar, 白桦支柱(粗)
+BambooMod:thinBirchPillar, 白桦支柱(细)
+BambooMod:delude_plate, 模仿压力板
+BambooMod:ricePlant, RicePlant
+BambooMod:bambooMillStone, 石磨
+BambooMod:bambooMoss, 藓苔方块
+BambooMod:bambooMultiPot, 小花盆
+BambooMod:blobkbroom:0, 帚目(直线)
+BambooMod:blobkbroom:1, 帚目(曲线)
+BambooMod:bamboohuton, tile.bamboohuton.name
+BambooMod:bamboomultiblock:2, 缩小范围2x
+BambooMod:bamboomultiblock:3, 缩小范围3x
+BambooMod:bamboomultiblock:4, 缩小范围4x
+BambooMod:bamboomultiblock:5, 缩小范围5x
+BambooMod:alphamultiblock:2, MiniBlock(Alpha)2x
+BambooMod:alphamultiblock:3, MiniBlock(Alpha)3x
+BambooMod:alphamultiblock:4, MiniBlock(Alpha)4x
+BambooMod:alphamultiblock:5, MiniBlock(Alpha)5x
+BambooMod:sakuracarpet:0, SakuraCarpet
+BambooMod:sakuracarpet:1, SakuraCarpet
+BambooMod:sakuracarpet:2, SakuraCarpet
+BambooMod:decoPlaster:0, DecoPlaster(I)
+BambooMod:decoCurvePlaster:0, DecoPlaster(L)
+BambooMod:decoDCurvePlaster:0, DecoPlaster(D)
+BambooMod:seaweed, SeaWeed
+BambooMod:beanPlant, BeanPlant
+BambooMod:tomatoPlant, TomatoPlant
+BambooMod:villagerBlock, VillagerBlock
+BambooMod:crossLamp:0, Bonfire
+BambooMod:crossLamp:1, Lampstand
+BambooMod:bambooLiangThick:0, 梁
+BambooMod:bambooLiangVLogThick:0, 梁
+BambooMod:bambooLiangVLogThick:1, 梁
+BambooMod:bambooLiangVLogThick:2, 梁
+BambooMod:bambooLiangVLogThick:3, 梁
+BambooMod:bambooLiangVLog2Thick:0, 梁
+BambooMod:bambooLiangVLog2Thick:1, 梁
+BambooMod:bambooLiangVWoodThick:0, 梁
+BambooMod:bambooLiangVWoodThick:1, 梁
+BambooMod:bambooLiangVWoodThick:2, 梁
+BambooMod:bambooLiangVWoodThick:3, 梁
+BambooMod:bambooLiangVWoodThick:4, 梁
+BambooMod:bambooLiangVWoodThick:5, 梁
+BambooMod:bambooLiangThin:0, 梁
+BambooMod:bambooLiangVLogThin:0, 梁
+BambooMod:bambooLiangVLogThin:1, 梁
+BambooMod:bambooLiangVLogThin:2, 梁
+BambooMod:bambooLiangVLogThin:3, 梁
+BambooMod:bambooLiangVLog2Thin:0, 梁
+BambooMod:bambooLiangVLog2Thin:1, 梁
+BambooMod:bambooLiangVWoodThin:0, 梁
+BambooMod:bambooLiangVWoodThin:1, 梁
+BambooMod:bambooLiangVWoodThin:2, 梁
+BambooMod:bambooLiangVWoodThin:3, 梁
+BambooMod:bambooLiangVWoodThin:4, 梁
+BambooMod:bambooLiangVWoodThin:5, 梁
+BambooMod:maneki, 招财猫
+BiblioCraft:tile.BiblioFramedChest:0, 镶框箱子
+BiblioCraft:BiblioPaneler:0, 橡木家具板材机
+BiblioCraft:BiblioPaneler:1, 云杉家具板材机
+BiblioCraft:BiblioPaneler:2, 桦木家具板材机
+BiblioCraft:BiblioPaneler:3, 丛林木家具板材机
+BiblioCraft:BiblioPaneler:4, 金合欢家具板材机
+BiblioCraft:BiblioPaneler:5, 深色橡木家具板材机
+BiblioCraft:BiblioPaneler:6, 镶框家具板材机
+BiblioCraft:BiblioClipboard, tile.BiblioClipboard.name
+BiblioCraft:BiblioTypewriter:0, 白色打字机
+BiblioCraft:BiblioTypewriter:1, 浅蓝色打字机
+BiblioCraft:BiblioTypewriter:2, 灰色打字机
+BiblioCraft:BiblioTypewriter:3, 黑色打字机
+BiblioCraft:BiblioTypewriter:4, 红色打字机
+BiblioCraft:BiblioTypewriter:5, 橙色打字机
+BiblioCraft:BiblioTypewriter:6, 黄色打字机
+BiblioCraft:BiblioTypewriter:7, 柠檬色打字机
+BiblioCraft:BiblioTypewriter:8, 绿色打字机
+BiblioCraft:BiblioTypewriter:9, 青色打字机
+BiblioCraft:BiblioTypewriter:10, 浅蓝色打字机
+BiblioCraft:BiblioTypewriter:11, 蓝色打字机
+BiblioCraft:BiblioTypewriter:12, 紫色打字机
+BiblioCraft:BiblioTypewriter:13, 品红色打字机
+BiblioCraft:BiblioTypewriter:14, 粉色打字机
+BiblioCraft:BiblioTypewriter:15, 棕色打字机
+BiblioCraft:BiblioClock:0, 橡木时钟
+BiblioCraft:BiblioClock:1, 云杉时钟
+BiblioCraft:BiblioClock:2, 桦木时钟
+BiblioCraft:BiblioClock:3, 丛林木时钟
+BiblioCraft:BiblioClock:4, 金合欢时钟
+BiblioCraft:BiblioClock:5, 深色橡木时钟
+BiblioCraft:BiblioClock:6, 镶框钟
+BiblioCraft:BiblioFlatPainting:0, 橡木画框
+BiblioCraft:BiblioFlatPainting:1, 云杉画框
+BiblioCraft:BiblioFlatPainting:2, 桦木画框
+BiblioCraft:BiblioFlatPainting:3, 丛林木画框
+BiblioCraft:BiblioFlatPainting:4, 金合欢画框
+BiblioCraft:BiblioFlatPainting:5, 深色橡木画框
+BiblioCraft:BiblioFlatPainting:6, 镶框画框
+BiblioCraft:BiblioSimplePainting:0, 橡木画框
+BiblioCraft:BiblioSimplePainting:1, 云杉画框
+BiblioCraft:BiblioSimplePainting:2, 桦木画框
+BiblioCraft:BiblioSimplePainting:3, 丛林木画框
+BiblioCraft:BiblioSimplePainting:4, 金合欢画框
+BiblioCraft:BiblioSimplePainting:5, 深色橡木画框
+BiblioCraft:BiblioSimplePainting:6, 镶框画框
+BiblioCraft:BiblioMiddlePainting:0, 橡木画框
+BiblioCraft:BiblioMiddlePainting:1, 云杉画框
+BiblioCraft:BiblioMiddlePainting:2, 桦木画框
+BiblioCraft:BiblioMiddlePainting:3, 丛林木画框
+BiblioCraft:BiblioMiddlePainting:4, 金合欢画框
+BiblioCraft:BiblioMiddlePainting:5, 深色橡木画框
+BiblioCraft:BiblioMiddlePainting:6, 镶框画框
+BiblioCraft:BiblioFancyPainting:0, 橡木画框
+BiblioCraft:BiblioFancyPainting:1, 云杉画框
+BiblioCraft:BiblioFancyPainting:2, 桦木画框
+BiblioCraft:BiblioFancyPainting:3, 丛林木画框
+BiblioCraft:BiblioFancyPainting:4, 金合欢画框
+BiblioCraft:BiblioFancyPainting:5, 深色橡木画框
+BiblioCraft:BiblioFancyPainting:6, 镶框画框
+BiblioCraft:BiblioBorderlessPainting:0, 橡木画框
+BiblioCraft:BiblioBorderlessPainting:1, 云杉画框
+BiblioCraft:BiblioBorderlessPainting:2, 桦木画框
+BiblioCraft:BiblioBorderlessPainting:3, 丛林木画框
+BiblioCraft:BiblioBorderlessPainting:4, 金合欢画框
+BiblioCraft:BiblioBorderlessPainting:5, 深色橡木画框
+BiblioCraft:BiblioBorderlessPainting:6, 镶框画框
+BiblioCraft:BiblioPaintPress, 压印机
+BiblioCraft:BiblioSwordPedestal:0, 剑座
+BiblioCraft:BiblioSwordPedestal:1, 剑座
+BiblioCraft:BiblioSwordPedestal:2, 剑座
+BiblioCraft:BiblioSwordPedestal:3, 剑座
+BiblioCraft:BiblioSwordPedestal:4, 剑座
+BiblioCraft:BiblioSwordPedestal:5, 剑座
+BiblioCraft:BiblioSwordPedestal:6, 剑座
+BiblioCraft:BiblioSwordPedestal:7, 剑座
+BiblioCraft:BiblioSwordPedestal:8, 剑座
+BiblioCraft:BiblioSwordPedestal:9, 剑座
+BiblioCraft:BiblioSwordPedestal:10, 剑座
+BiblioCraft:BiblioSwordPedestal:11, 剑座
+BiblioCraft:BiblioSwordPedestal:12, 剑座
+BiblioCraft:BiblioSwordPedestal:13, 剑座
+BiblioCraft:BiblioSwordPedestal:14, 剑座
+BiblioCraft:BiblioSwordPedestal:15, 剑座
+BiblioCraft:BiblioFancySign:0, 橡木精致木牌
+BiblioCraft:BiblioFancySign:1, 云杉精致木牌
+BiblioCraft:BiblioFancySign:2, 桦木精致木牌
+BiblioCraft:BiblioFancySign:3, 丛林精致木牌
+BiblioCraft:BiblioFancySign:4, 金合欢精致木牌
+BiblioCraft:BiblioFancySign:5, 深色橡木精致木牌
+BiblioCraft:BiblioFancySign:6, 镶框精致木牌
+BiblioCraft:BiblioWorkbench:0, 橡木精致工作台
+BiblioCraft:BiblioWorkbench:1, 云杉精致工作台
+BiblioCraft:BiblioWorkbench:2, 桦木精致工作台
+BiblioCraft:BiblioWorkbench:3, 丛林精致工作台
+BiblioCraft:BiblioWorkbench:4, 金合欢精致工作台
+BiblioCraft:BiblioWorkbench:5, 深色橡木精致工作台
+BiblioCraft:BiblioWorkbench:6, 镶框精致工作台
+BiblioCraft:BiblioBell, 按铃
+BiblioCraft:Bibliotheca:0, 橡木书架
+BiblioCraft:Bibliotheca:1, 云杉木书架
+BiblioCraft:Bibliotheca:2, 白桦木书架
+BiblioCraft:Bibliotheca:3, 丛林木书架
+BiblioCraft:Bibliotheca:4, 金合欢书架
+BiblioCraft:Bibliotheca:5, 深色橡木书架
+BiblioCraft:Bibliotheca:6, 镶框书架
+BiblioCraft:BookcaseFilled:0, 橡木书架
+BiblioCraft:BookcaseFilled:1, 云杉木书架
+BiblioCraft:BookcaseFilled:2, 白桦木书架
+BiblioCraft:BookcaseFilled:3, 丛林木书架
+BiblioCraft:BookcaseFilled:4, 金合欢书架
+BiblioCraft:BookcaseFilled:5, 深色橡木书架
+BiblioCraft:BookcaseFilled:6, 镶框书架
 BiblioCraft:BiblioPotionShelf:0, 橡木药水架
 BiblioCraft:BiblioPotionShelf:1, 云杉木药水架
 BiblioCraft:BiblioPotionShelf:2, 白桦木药水架
@@ -779,12 +923,6 @@ BiblioCraft:BiblioTable:4, 金合欢桌子
 BiblioCraft:BiblioTable:5, 深色橡木桌子
 BiblioCraft:BiblioTable:6, 镶框台桌
 BiblioCraft:Armor Stand, 衣架
-minecraft:iron_horse_armor, 铁马铠
-minecraft:golden_horse_armor, 金马铠
-minecraft:diamond_horse_armor, 钻石马铠
-minecraft:lead, 拴绳
-minecraft:name_tag, 命名牌
-minecraft:command_block_minecart, 命令方块矿车
 BiblioCraft:Typesetting Machine, 排版台
 BiblioCraft:Printing Press, 拓印机
 BiblioCraft:BiblioLantern:0, 精致灯笼
@@ -3039,7 +3177,7 @@ extracells:vibrantchamberfluid, 流体谐振仓
 ExtraUtilities:chestMini, 迷你箱
 ExtraUtilities:chestFull, 微型箱
 ExtraUtilities:enderCollector, 末影收集器
-ExtraUtilities:endConstructor:0, QED(量子放射解码器Quantum Emission Decompiler)
+ExtraUtilities:endConstructor:0, QED(相当贵饰品Quite Expensive Decoration)
 ExtraUtilities:endConstructor:2, 末影潮汐水晶
 ExtraUtilities:endMarker, 末影路标
 ExtraUtilities:curtains, 黑幕布帘
@@ -3408,6 +3546,10 @@ ExtraUtilities:etherealglass:2, 深色天域玻璃
 ExtraUtilities:etherealglass:3, 天域玻璃(反向)
 ExtraUtilities:etherealglass:4, 超凡玻璃(反向)
 ExtraUtilities:etherealglass:5, 暗色天域玻璃(反向)
+flansmod:flansWorkbench:0, 载具制造台
+flansmod:teamsSpawner:0, 物品生成器
+flansmod:teamsSpawner:1, 士兵生成器
+flansmod:teamsSpawner:2, 载具生成器
 ImmersiveEngineering:ore:0, 铜矿石
 ImmersiveEngineering:ore:1, 铝土矿石
 ImmersiveEngineering:ore:2, 铅矿石
@@ -4069,6 +4211,46 @@ OpenComputers:waypoint:0, 路径点
 OpenComputers:endstone:0, 末地石
 OpenComputers:netSplitter:0, 网络分配器
 OpenComputers:transposer:0, Transposer
+openmodularturrets:baseTierWood, 炮塔基座(一级) 
+openmodularturrets:baseTierOneBlock, 炮塔基座(二级) 
+openmodularturrets:baseTierTwoBlock, 炮塔基座(三级) 
+openmodularturrets:baseTierThreeBlock, 炮塔基座(四级) 
+openmodularturrets:baseTierFourBlock, 炮塔基座(五级) 
+openmodularturrets:expanderPowerTierOne, 基座能量扩容(一级)
+openmodularturrets:expanderPowerTierTwo, 基座能量扩容(二级)
+openmodularturrets:expanderPowerTierThree, 基座能量扩容(三级)
+openmodularturrets:expanderPowerTierFour, 基座能量扩容(四级)
+openmodularturrets:expanderPowerTierFive, 基座能量扩容(五级)
+openmodularturrets:expanderInvTierOne, 基座存储扩容(一级)
+openmodularturrets:expanderInvTierTwo, 基座存储扩容(二级)
+openmodularturrets:expanderInvTierThree, 基座存储扩容(三级)
+openmodularturrets:expanderInvTierFour, 基座存储扩容(四级)
+openmodularturrets:expanderInvTierFive, 基座存储扩容(五级)
+openmodularturrets:hardWallTierOne, 坚固墙壁(一级)
+openmodularturrets:hardWallTierTwo, 坚固墙壁(二级)
+openmodularturrets:hardWallTierThree, 坚固墙壁(三级)
+openmodularturrets:hardWallTierFour, 坚固墙壁(四级)
+openmodularturrets:hardWallTierFive, 坚固墙壁(五级)
+openmodularturrets:fenceTierOne, 护栏(一级)
+openmodularturrets:fenceTierTwo, 护栏(二级)
+openmodularturrets:fenceTierThree, 护栏(三级)
+openmodularturrets:fenceTierFour, 护栏(四级)
+openmodularturrets:fenceTierFive, 护栏(五级)
+openmodularturrets:disposeItemTurret, 低级投射炮塔
+openmodularturrets:potatoCannonTurret, 土豆加农炮塔
+openmodularturrets:machineGunTurret, 机关枪炮塔
+openmodularturrets:incendiaryTurret, 燃烧弹炮塔
+openmodularturrets:grenadeTurret, 榴弹发射炮塔
+openmodularturrets:relativisticTurret, 相位力场炮塔
+openmodularturrets:rocketTurret, 火箭发射炮塔
+openmodularturrets:teleporterTurret, 传送炮塔
+openmodularturrets:laserTurret, 激光炮塔
+openmodularturrets:railGunTurret, 磁轨炮炮塔
+openmodularturrets:leverBlock, 炮塔基座曲柄
+OpenPeripheral:glassesbridge, 头戴显示终端机
+OpenPeripheral:pim, 携带物同步压力板
+OpenPeripheral:sensor, 传感器
+OpenPeripheral:selector, Item Selector
 StevesFactoryManager:BlockMachineManagerName, Machine Inventory Manager
 StevesFactoryManager:BlockCableName, Inventory Cable
 StevesFactoryManager:BlockCableRelayName:0, Inventory Relay
@@ -4086,6 +4268,57 @@ StevesFactoryManager:BlockCableCamouflageName:0, Cable Camouflage
 StevesFactoryManager:BlockCableCamouflageName:1, Double Sided Cable Camouflage
 StevesFactoryManager:BlockCableCamouflageName:2, Transforming Cable Camouflage
 StevesFactoryManager:BlockCableSignName, Sign Updater
+streams:river/tile.water/-2/-2, 水
+streams:river/tile.water/-2/-1, 水
+streams:river/tile.water/-2/0, 水
+streams:river/tile.water/-2/1, 水
+streams:river/tile.water/-2/2, 水
+streams:river/tile.water/-1/-2, 水
+streams:river/tile.water/-1/2, 水
+streams:river/tile.water/0/-2, 水
+streams:river/tile.water/0/0, 水
+streams:river/tile.water/0/2, 水
+streams:river/tile.water/1/-2, 水
+streams:river/tile.water/1/2, 水
+streams:river/tile.water/2/-2, 水
+streams:river/tile.water/2/-1, 水
+streams:river/tile.water/2/0, 水
+streams:river/tile.water/2/1, 水
+streams:river/tile.water/2/2, 水
+streams:river/tile.lava/-2/-2, 岩浆
+streams:river/tile.lava/-2/-1, 岩浆
+streams:river/tile.lava/-2/0, 岩浆
+streams:river/tile.lava/-2/1, 岩浆
+streams:river/tile.lava/-2/2, 岩浆
+streams:river/tile.lava/-1/-2, 岩浆
+streams:river/tile.lava/-1/2, 岩浆
+streams:river/tile.lava/0/-2, 岩浆
+streams:river/tile.lava/0/0, 岩浆
+streams:river/tile.lava/0/2, 岩浆
+streams:river/tile.lava/1/-2, 岩浆
+streams:river/tile.lava/1/2, 岩浆
+streams:river/tile.lava/2/-2, 岩浆
+streams:river/tile.lava/2/-1, 岩浆
+streams:river/tile.lava/2/0, 岩浆
+streams:river/tile.lava/2/1, 岩浆
+streams:river/tile.lava/2/2, 岩浆
+streams:river/ice/-2/-2, 冰
+streams:river/ice/-2/-1, 冰
+streams:river/ice/-2/0, 冰
+streams:river/ice/-2/1, 冰
+streams:river/ice/-2/2, 冰
+streams:river/ice/-1/-2, 冰
+streams:river/ice/-1/2, 冰
+streams:river/ice/0/-2, 冰
+streams:river/ice/0/0, 冰
+streams:river/ice/0/2, 冰
+streams:river/ice/1/-2, 冰
+streams:river/ice/1/2, 冰
+streams:river/ice/2/-2, 冰
+streams:river/ice/2/-1, 冰
+streams:river/ice/2/0, 冰
+streams:river/ice/2/1, 冰
+streams:river/ice/2/2, 冰
 thaumicenergistics:thaumicenergistics.block.essentia.provider, 源质供应器
 thaumicenergistics:thaumicenergistics.block.infusion.provider, 注魔供应器
 thaumicenergistics:thaumicenergistics.block.gear.box, 铁齿轮箱
@@ -4149,6 +4382,9 @@ minecraft:record_strad, 音乐唱片
 minecraft:record_ward, 音乐唱片
 minecraft:record_11, 音乐唱片
 minecraft:record_wait, 音乐唱片
+Aroma1997Core:wrench, Aromic Hammer
+antiqueatlas:antiqueAtlas:0, 古式地图 #0
+antiqueatlas:emptyAntiqueAtlas, 空白古式地图
 appliedenergistics2:item.ToolCertusQuartzAxe, 赛特斯石英斧
 appliedenergistics2:item.ToolCertusQuartzHoe, 赛特斯石英锄
 appliedenergistics2:item.ToolCertusQuartzSpade, 赛特斯石英锹
@@ -4316,6 +4552,21 @@ appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 福鲁伊克斯台阶
 appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 赛特斯石英台阶
 appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 錾制赛特斯石英台阶
 appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 竖纹赛特斯石英台阶
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 樱木
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 灰泥
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 菱纹墙
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 方格花纹(橡)
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 方格花纹(松)
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 方格花纹(白桦)
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 瓦方块
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 百叶窗板
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 樱木板
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 秸秆方块
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 帚目(直线)
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 帚目(曲线)
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - DecoPlaster(I)
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - DecoPlaster(L)
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - DecoPlaster(D)
 appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 桉树原木
 appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 樱花树原木
 appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 幽魂树原木
@@ -5003,6 +5254,7 @@ appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 阴毒之纯色光屏(�
 appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 赤梦之纯色光屏(红)
 appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 永夜之纯色光屏(黑)
 appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 红石钟
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 载具制造台
 appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 铜矿石
 appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 铝土矿石
 appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 铅矿石
@@ -5181,6 +5433,11 @@ appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - Violet Castle Rune Bric
 appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 电梯
 appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 变色块
 appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 末地石
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 坚固墙壁(一级)
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 坚固墙壁(二级)
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 坚固墙壁(三级)
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 坚固墙壁(四级)
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 坚固墙壁(五级)
 appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - Inventory Cable
 appliedenergistics2:item.ItemCrystalSeed:0, 赛特斯石英种子
 appliedenergistics2:item.ItemCrystalSeed:600, 下界石英种子
@@ -5369,6 +5626,141 @@ appliedenergistics2:item.ItemMultiPart:220, ME存储总线
 appliedenergistics2:item.ItemMultiPart:400, ME存储监控器
 appliedenergistics2:item.ItemMultiPart:380, ME终端
 appliedenergistics2:item.ItemMultiPart:80, ME触发总线
+BambooMod:bamboobasket, 竹碗
+BambooMod:firecracker:0, 鞭炮(小)
+BambooMod:firecracker:1, 鞭炮(中)
+BambooMod:firecracker:2, 鞭炮(大)
+BambooMod:bambooFood:0, 米饭
+BambooMod:bambooFood:1, 牛肉饭
+BambooMod:bambooFood:2, 猪肉饭
+BambooMod:bambooFood:3, 蘑菇饭
+BambooMod:bambooFood:4, 猪肉串
+BambooMod:bambooFood:5, 牛肉串
+BambooMod:bambooFood:6, 竹笋饭
+BambooMod:bambooFood:7, 鸡蛋拌饭
+BambooMod:bambooFood:8, 鸡肉鸡蛋盖饭
+BambooMod:bambooFood:9, 金枪鱼寿司饭
+BambooMod:bambooFood:10, 鸡肉串
+BambooMod:bambooFood:11, Riceball(Ume)
+BambooMod:bambooFood:12, Riceball(Salmon)
+BambooMod:bambooFood:13, Riceball(Tuna flaked)
+BambooMod:bambooFood:14, Riceball(Mushroom)
+BambooMod:bambooFood:15, Riceball(Take)
+BambooMod:bambooFood:16, Riceball(Wakame)
+BambooMod:bambooFood:17, Dango(Anko)
+BambooMod:bambooFood:18, Dango(Kinako)
+BambooMod:bambooFood:19, Dango(Mitarashi)
+BambooMod:bambooFood:20, Dango(Sanshioku)
+BambooMod:bambooFood:21, Dango(Zunda)
+BambooMod:bambooFood:22, Mochi
+BambooMod:bambooFood:23, CookedMochi
+BambooMod:bambooFood:24, Ohagi(Anko)
+BambooMod:bambooFood:25, Ohagi(Kinako)
+BambooMod:bambooFood:26, Ohagi(Zunda)
+BambooMod:bambooFood:27, Natto
+BambooMod:bambooFood:28, Nattomeshi
+BambooMod:bambooFood:29, Tamanattomeshi
+BambooMod:bambooFood:30, Sakuramochi
+BambooMod:bambooFood:31, Tamagyumeshi
+BambooMod:bambooFood:32, Katsudon
+BambooMod:bambooFood:33, Sekihan
+BambooMod:bambooFood:34, Riceball(Sekihan)
+BambooMod:bambooFood:35, Tofu
+BambooMod:bambooFood:36, Fried tofu
+BambooMod:bambooFood:37, Noodle
+BambooMod:bambooFood:38, Udon
+BambooMod:bambooFood:39, Soba
+BambooMod:bambooFood:40, Ramen
+BambooMod:bambooFood:41, Pizza
+BambooMod:bambooFood:42, KaisenOyako
+BambooMod:bamboospear:0, 竹枪
+BambooMod:bamboospear:1, 竹枪(爆炸)
+BambooMod:slideDoor:0, 隔扇
+BambooMod:slideDoor:1, 拉门
+BambooMod:slideDoor:2, 玻璃门
+BambooMod:slideDoor:3, 格子玻璃门
+BambooMod:slideDoor:4, 眺雪拉门
+BambooMod:slideDoor:5, 滑窗
+BambooMod:kakeziku, 挂轴
+BambooMod:huton, 衾枕
+BambooMod:boiledEgg:0, 煮鸡蛋
+BambooMod:shavedice:0, 刨冰(原味)
+BambooMod:shavedice:1, 刨冰(西瓜)
+BambooMod:shavedice:2, 刨冰(巧克力)
+BambooMod:shavedice:3, 刨冰(南瓜)
+BambooMod:shavedice:4, 刨冰(仙人掌)
+BambooMod:shavedice:5, 刨冰(乌贼墨)
+BambooMod:shavedice:6, 刨冰(苹果)
+BambooMod:shavedice:7, 刨冰(夏威夷)
+BambooMod:shavedice:8, 刨冰(抹茶)
+BambooMod:shavedice:9, 刨冰(炼乳蜂蜜)
+BambooMod:shavedice:10, 刨冰(炼乳西瓜)
+BambooMod:shavedice:11, 刨冰(炼乳巧克力)
+BambooMod:shavedice:12, 刨冰(炼乳南瓜)
+BambooMod:shavedice:13, 刨冰(炼乳仙人掌)
+BambooMod:shavedice:14, 刨冰(炼乳乌贼墨)
+BambooMod:shavedice:15, 刨冰(炼乳苹果)
+BambooMod:shavedice:16, 刨冰(炼乳夏威夷)
+BambooMod:shavedice:17, 刨冰(炼乳抹茶)
+BambooMod:windchime, 风铃
+BambooMod:itemsack:0, 包袱皮
+BambooMod:snowball:0, 雪球(石)
+BambooMod:snowball:1, 雪球(冰块)
+BambooMod:snowball:2, 雪球(铁)
+BambooMod:snowball:3, 雪球(金)
+BambooMod:snowball:4, 雪球(钻石)
+BambooMod:snowball:5, 雪球(压缩)
+BambooMod:snowball:6, 雪球(瞬移)
+BambooMod:snowball:7, 雪球(混乱)
+BambooMod:snowball:8, 雪球(毒)
+BambooMod:snowball:9, 雪球(治疗)
+BambooMod:fan, 折扇
+BambooMod:katana, 日本刀
+BambooMod:bamboobow, 竹弓
+BambooMod:tudura, 竹箱
+BambooMod:windmill:0, 风车
+BambooMod:windmill:1, 风车(帆)
+BambooMod:waterwheel, 水车
+BambooMod:itembamboo, 竹
+BambooMod:kaginawa, 钩绳
+BambooMod:bamboosword, 竹刀
+BambooMod:obon, 供盘
+BambooMod:magatama:0, 勾玉
+BambooMod:magatama:1, 勾玉
+BambooMod:magatama:2, 勾玉
+BambooMod:magatama:3, 勾玉
+BambooMod:magatama:4, 勾玉
+BambooMod:magatama:5, 勾玉
+BambooMod:magatama:6, 勾玉
+BambooMod:straw, 秸秆
+BambooMod:seedrice, 水稻种子
+BambooMod:rawrice, 粗米
+BambooMod:zabuton:0, 坐垫
+BambooMod:zabuton:1, 坐垫
+BambooMod:zabuton:2, 坐垫
+BambooMod:zabuton:3, 坐垫
+BambooMod:zabuton:4, 坐垫
+BambooMod:zabuton:5, 坐垫
+BambooMod:zabuton:6, 坐垫
+BambooMod:zabuton:7, 坐垫
+BambooMod:zabuton:8, 坐垫
+BambooMod:zabuton:9, 坐垫
+BambooMod:zabuton:10, 坐垫
+BambooMod:zabuton:11, 坐垫
+BambooMod:zabuton:12, 坐垫
+BambooMod:zabuton:13, 坐垫
+BambooMod:zabuton:14, 坐垫
+BambooMod:zabuton:15, 坐垫
+BambooMod:itemFireflyBottle, 萤瓶
+BambooMod:bambooDustCray, 粘土粉
+BambooMod:bamboopickaxe, ???
+BambooMod:seedseaweed, SeaweedSeed
+BambooMod:itemseaweed, Seaweed
+BambooMod:itembean, Bean
+BambooMod:cookingrecipe, CookingRecipe
+BambooMod:bambooflour, Flour
+BambooMod:bamboodough, Dough
+BambooMod:itemtomato, Tomato
 BiblioCraft:item.StockroomCatalog, 仓库目录
 BiblioCraft:item.PlumbLine, 铅垂线
 BiblioCraft:item.FramingSaw, 镶框锯
@@ -5989,8 +6381,8 @@ ThermalExpansion:satchel:1, 基础背包
 ThermalExpansion:satchel:2, 硬化背包
 ThermalExpansion:satchel:3, 强化背包
 ThermalExpansion:satchel:4, 谐振背包
-ThermalExpansion:florb:0, 无效物品(请销毁之) (空§r)
-ThermalExpansion:florb:1, 无效物品(请销毁之) (空§r)
+ThermalExpansion:florb:0, Invalid Item (Destroy) (空§r)
+ThermalExpansion:florb:1, Invalid Item (Destroy) (空§r)
 BigReactors:BRIngot:0, 黄铀锭
 BigReactors:BRIngot:1, 蓝晶锭
 BigReactors:BRIngot:2, 石墨棒
@@ -7219,6 +7611,8 @@ ExtraUtilities:watering_can, 洒水壶
 ExtraUtilities:scanner, 便携扫描仪
 ExtraUtilities:golden_bag, 镶金手提袋
 ExtraUtilities:bedrockiumIngot, 基岩锭
+flansmod:opStick:0, 所有权棍
+flansmod:flagpole, 旗杆
 ImmersiveEngineering:metal:0, 铜锭
 ImmersiveEngineering:metal:1, 铝锭
 ImmersiveEngineering:metal:2, 铅锭
@@ -8232,6 +8626,7 @@ OpenBlocks:generic:0, 滑翔翼
 OpenBlocks:generic:1, 连杆
 OpenBlocks:generic:2, 起重机引擎
 OpenBlocks:generic:3, 起重机磁铁
+OpenBlocks:generic:4, §5奇迹磁铁§r
 OpenBlocks:generic:5, 缆绳
 OpenBlocks:generic:6, 地图调节器模块
 OpenBlocks:generic:7, 地图存储模块
@@ -8405,6 +8800,42 @@ OpenComputers:item:0, EEPROM (Lua BIOS)
 OpenComputers:eeprom, EEPROM
 OpenComputers:wrench, 螺丝刀扳手
 OpenComputers:hoverBoots, 悬浮靴
+openmodularturrets:bulletThrowable, 投射型子弹
+openmodularturrets:grenadeThrowable, 投射型榴弹
+openmodularturrets:accuraccyUpgradeItem, 升级组件-精准
+openmodularturrets:efficiencyUpgradeItem, 升级组件-效率
+openmodularturrets:fireRateUpgradeItem, 升级组件-射速
+openmodularturrets:rangeUpgradeItem, 升级组件-范围
+openmodularturrets:scattershotUpgradeItem, 升级组件-散射
+openmodularturrets:redstoneReactorAddon, 附件-红石能源芯片
+openmodularturrets:damageAmpAddon, 附件-攻击增强
+openmodularturrets:solarPanelAddon, 附件-太阳能芯片
+openmodularturrets:recyclerAddon, 附件-弹药循环
+openmodularturrets:concealerAddon, Addon - Turret Concealer
+openmodularturrets:bulletCraftable, 弹药-子弹
+openmodularturrets:blazingClayCraftable, 弹药-燃烧弹
+openmodularturrets:grenadeCraftable, 弹药-榴弹
+openmodularturrets:rocketCraftable, 弹药-制导火箭
+openmodularturrets:ferroSlug, 弹药-铁磁弹
+openmodularturrets:sensorTierOneItem, 传感器(一级)
+openmodularturrets:sensorTierTwoItem, 传感器(二级)
+openmodularturrets:sensorTierThreeItem, 传感器(三级)
+openmodularturrets:sensorTierFourItem, 传感器(四级)
+openmodularturrets:sensorTierFiveItem, 传感器(五级)
+openmodularturrets:barrelTierOne, 炮管(一级)
+openmodularturrets:barrelTierTwo, 炮管(二级)
+openmodularturrets:barrelTierThree, 炮管(三级)
+openmodularturrets:barrelTierFour, 炮管(四级)
+openmodularturrets:barrelTierFive, 炮管(五级)
+openmodularturrets:chamberTierOne, 弹膛(一级)
+openmodularturrets:chamberTierTwo, 弹膛(二级)
+openmodularturrets:chamberTierThree, 弹膛(三级)
+openmodularturrets:chamberTierFour, 弹膛(四级)
+openmodularturrets:chamberTierFive, 弹膛(五级)
+openmodularturrets:ioBus, IO总线
+OpenPeripheral:glasses:0, 头戴显示器
+OpenPeripheral:keyboard, Wireless Keyboard
+OpenPeripheral:generic:0, 天线
 simplyjetpacks:jetpacksCommon:0, 土豆喷气背包
 simplyjetpacks:jetpacksCommon:9001, 创造模式飞行胸甲
 simplyjetpacks:fluxpacksCommon:9001, 创造模式能源胸甲
@@ -8801,6 +9232,126 @@ ThermalDynamics:cover:0, 錾制赛特斯石英台阶 覆盖板
 ThermalDynamics:cover:0, 錾制赛特斯石英台阶 覆盖板
 ThermalDynamics:cover:0, 竖纹赛特斯石英台阶 覆盖板
 ThermalDynamics:cover:0, 竖纹赛特斯石英台阶 覆盖板
+ThermalDynamics:cover:0, 竹子 覆盖板
+ThermalDynamics:cover:0, tile.bamboosingle.name 覆盖板
+ThermalDynamics:cover:0, Bamboo 覆盖板
+ThermalDynamics:cover:0, 竹笋 覆盖板
+ThermalDynamics:cover:0, 竹方块 覆盖板
+ThermalDynamics:cover:0, 狐火 覆盖板
+ThermalDynamics:cover:0, 叠席 覆盖板
+ThermalDynamics:cover:0, 茅草方块 覆盖板
+ThermalDynamics:cover:0, 叠席(泛黄) 覆盖板
+ThermalDynamics:cover:0, 没有边缘的叠席(泛黄) 覆盖板
+ThermalDynamics:cover:0, 没有边缘的叠席 覆盖板
+ThermalDynamics:cover:0, 叠席台阶 覆盖板
+ThermalDynamics:cover:0, 茅草台阶 覆盖板
+ThermalDynamics:cover:0, 叠席台阶(泛黄) 覆盖板
+ThermalDynamics:cover:0, 没有边缘的叠席台阶(泛黄) 覆盖板
+ThermalDynamics:cover:0, 没有边缘的叠席台阶 覆盖板
+ThermalDynamics:cover:0, 竹篱笆 覆盖板
+ThermalDynamics:cover:0, 楣窗 覆盖板
+ThermalDynamics:cover:0, 竹篱笆 覆盖板
+ThermalDynamics:cover:0, 竹篱笆 覆盖板
+ThermalDynamics:cover:0, 门帘(蓝) 覆盖板
+ThermalDynamics:cover:0, 门帘(紫) 覆盖板
+ThermalDynamics:cover:0, 竹帘 覆盖板
+ThermalDynamics:cover:0, 樱花 覆盖板
+ThermalDynamics:cover:0, 樱花 覆盖板
+ThermalDynamics:cover:0, 樱花 覆盖板
+ThermalDynamics:cover:0, 樱花 覆盖板
+ThermalDynamics:cover:0, 樱花 覆盖板
+ThermalDynamics:cover:0, 樱花 覆盖板
+ThermalDynamics:cover:0, 樱花 覆盖板
+ThermalDynamics:cover:0, 樱花 覆盖板
+ThermalDynamics:cover:0, 樱花 覆盖板
+ThermalDynamics:cover:0, 樱花 覆盖板
+ThermalDynamics:cover:0, 樱花 覆盖板
+ThermalDynamics:cover:0, 樱花 覆盖板
+ThermalDynamics:cover:0, 樱花 覆盖板
+ThermalDynamics:cover:0, 樱花 覆盖板
+ThermalDynamics:cover:0, 樱花 覆盖板
+ThermalDynamics:cover:0, 樱花 覆盖板
+ThermalDynamics:cover:0, 樱树苗 覆盖板
+ThermalDynamics:cover:0, 茅草楼梯 覆盖板
+ThermalDynamics:cover:0, 樱木 覆盖板
+ThermalDynamics:cover:0, 模仿台阶 覆盖板
+ThermalDynamics:cover:0, 模仿台阶垂直 覆盖板
+ThermalDynamics:cover:0, 模仿楼梯 覆盖板
+ThermalDynamics:cover:0, 灰泥 覆盖板
+ThermalDynamics:cover:0, 菱纹墙 覆盖板
+ThermalDynamics:cover:0, 方格花纹(橡) 覆盖板
+ThermalDynamics:cover:0, 方格花纹(松) 覆盖板
+ThermalDynamics:cover:0, 方格花纹(白桦) 覆盖板
+ThermalDynamics:cover:0, 瓦方块 覆盖板
+ThermalDynamics:cover:0, 灰泥台阶 覆盖板
+ThermalDynamics:cover:0, 菱纹墙台阶 覆盖板
+ThermalDynamics:cover:0, 方格花纹台阶(橡) 覆盖板
+ThermalDynamics:cover:0, 方格花纹台阶(松) 覆盖板
+ThermalDynamics:cover:0, 方格花纹台阶(白桦) 覆盖板
+ThermalDynamics:cover:0, 瓦台阶 覆盖板
+ThermalDynamics:cover:0, 百叶窗板 覆盖板
+ThermalDynamics:cover:0, 樱木板 覆盖板
+ThermalDynamics:cover:0, 秸秆方块 覆盖板
+ThermalDynamics:cover:0, 瓦楼梯 覆盖板
+ThermalDynamics:cover:0, 樱木台阶 覆盖板
+ThermalDynamics:cover:0, 秸秆台阶 覆盖板
+ThermalDynamics:cover:0, 瓦楼梯 覆盖板
+ThermalDynamics:cover:0, 秸秆楼梯 覆盖板
+ThermalDynamics:cover:0, 草席 覆盖板
+ThermalDynamics:cover:0, 茅草地毯 覆盖板
+ThermalDynamics:cover:0, 草席(泛黄) 覆盖板
+ThermalDynamics:cover:0, 没有边缘的草席(泛黄) 覆盖板
+ThermalDynamics:cover:0, 没有边缘的草席 覆盖板
+ThermalDynamics:cover:0, 樱木支柱(粗) 覆盖板
+ThermalDynamics:cover:0, 樱木支柱(细) 覆盖板
+ThermalDynamics:cover:0, 橡木支柱(粗) 覆盖板
+ThermalDynamics:cover:0, 橡木支柱(细) 覆盖板
+ThermalDynamics:cover:0, 松支柱(粗) 覆盖板
+ThermalDynamics:cover:0, 松支柱(细) 覆盖板
+ThermalDynamics:cover:0, 白桦支柱(粗) 覆盖板
+ThermalDynamics:cover:0, 白桦支柱(细) 覆盖板
+ThermalDynamics:cover:0, 模仿压力板 覆盖板
+ThermalDynamics:cover:0, RicePlant 覆盖板
+ThermalDynamics:cover:0, 藓苔方块 覆盖板
+ThermalDynamics:cover:0, 帚目(直线) 覆盖板
+ThermalDynamics:cover:0, 帚目(曲线) 覆盖板
+ThermalDynamics:cover:0, SakuraCarpet 覆盖板
+ThermalDynamics:cover:0, SakuraCarpet 覆盖板
+ThermalDynamics:cover:0, SakuraCarpet 覆盖板
+ThermalDynamics:cover:0, DecoPlaster(I) 覆盖板
+ThermalDynamics:cover:0, DecoPlaster(L) 覆盖板
+ThermalDynamics:cover:0, DecoPlaster(D) 覆盖板
+ThermalDynamics:cover:0, SeaWeed 覆盖板
+ThermalDynamics:cover:0, BeanPlant 覆盖板
+ThermalDynamics:cover:0, TomatoPlant 覆盖板
+ThermalDynamics:cover:0, Bonfire 覆盖板
+ThermalDynamics:cover:0, Lampstand 覆盖板
+ThermalDynamics:cover:0, 梁 覆盖板
+ThermalDynamics:cover:0, 梁 覆盖板
+ThermalDynamics:cover:0, 梁 覆盖板
+ThermalDynamics:cover:0, 梁 覆盖板
+ThermalDynamics:cover:0, 梁 覆盖板
+ThermalDynamics:cover:0, 梁 覆盖板
+ThermalDynamics:cover:0, 梁 覆盖板
+ThermalDynamics:cover:0, 梁 覆盖板
+ThermalDynamics:cover:0, 梁 覆盖板
+ThermalDynamics:cover:0, 梁 覆盖板
+ThermalDynamics:cover:0, 梁 覆盖板
+ThermalDynamics:cover:0, 梁 覆盖板
+ThermalDynamics:cover:0, 梁 覆盖板
+ThermalDynamics:cover:0, 梁 覆盖板
+ThermalDynamics:cover:0, 梁 覆盖板
+ThermalDynamics:cover:0, 梁 覆盖板
+ThermalDynamics:cover:0, 梁 覆盖板
+ThermalDynamics:cover:0, 梁 覆盖板
+ThermalDynamics:cover:0, 梁 覆盖板
+ThermalDynamics:cover:0, 梁 覆盖板
+ThermalDynamics:cover:0, 梁 覆盖板
+ThermalDynamics:cover:0, 梁 覆盖板
+ThermalDynamics:cover:0, 梁 覆盖板
+ThermalDynamics:cover:0, 梁 覆盖板
+ThermalDynamics:cover:0, 梁 覆盖板
+ThermalDynamics:cover:0, 梁 覆盖板
 ThermalDynamics:cover:0, Crops 覆盖板
 ThermalDynamics:cover:0, 覆盆子灌木 覆盖板
 ThermalDynamics:cover:0, 蓝莓灌木 覆盖板
@@ -10721,7 +11272,68 @@ ThermalDynamics:cover:0, 脚手架 覆盖板
 ThermalDynamics:cover:0, 机器人余像 覆盖板
 ThermalDynamics:cover:0, 变色块 覆盖板
 ThermalDynamics:cover:0, 末地石 覆盖板
+ThermalDynamics:cover:0, 坚固墙壁(一级) 覆盖板
+ThermalDynamics:cover:0, 坚固墙壁(二级) 覆盖板
+ThermalDynamics:cover:0, 坚固墙壁(三级) 覆盖板
+ThermalDynamics:cover:0, 坚固墙壁(四级) 覆盖板
+ThermalDynamics:cover:0, 坚固墙壁(五级) 覆盖板
+ThermalDynamics:cover:0, 护栏(一级) 覆盖板
+ThermalDynamics:cover:0, 护栏(二级) 覆盖板
+ThermalDynamics:cover:0, 护栏(三级) 覆盖板
+ThermalDynamics:cover:0, 护栏(四级) 覆盖板
+ThermalDynamics:cover:0, 护栏(五级) 覆盖板
 ThermalDynamics:cover:0, Inventory Cable 覆盖板
+ThermalDynamics:cover:0, 水 覆盖板
+ThermalDynamics:cover:0, 水 覆盖板
+ThermalDynamics:cover:0, 水 覆盖板
+ThermalDynamics:cover:0, 水 覆盖板
+ThermalDynamics:cover:0, 水 覆盖板
+ThermalDynamics:cover:0, 水 覆盖板
+ThermalDynamics:cover:0, 水 覆盖板
+ThermalDynamics:cover:0, 水 覆盖板
+ThermalDynamics:cover:0, 水 覆盖板
+ThermalDynamics:cover:0, 水 覆盖板
+ThermalDynamics:cover:0, 水 覆盖板
+ThermalDynamics:cover:0, 水 覆盖板
+ThermalDynamics:cover:0, 水 覆盖板
+ThermalDynamics:cover:0, 水 覆盖板
+ThermalDynamics:cover:0, 水 覆盖板
+ThermalDynamics:cover:0, 水 覆盖板
+ThermalDynamics:cover:0, 水 覆盖板
+ThermalDynamics:cover:0, 岩浆 覆盖板
+ThermalDynamics:cover:0, 岩浆 覆盖板
+ThermalDynamics:cover:0, 岩浆 覆盖板
+ThermalDynamics:cover:0, 岩浆 覆盖板
+ThermalDynamics:cover:0, 岩浆 覆盖板
+ThermalDynamics:cover:0, 岩浆 覆盖板
+ThermalDynamics:cover:0, 岩浆 覆盖板
+ThermalDynamics:cover:0, 岩浆 覆盖板
+ThermalDynamics:cover:0, 岩浆 覆盖板
+ThermalDynamics:cover:0, 岩浆 覆盖板
+ThermalDynamics:cover:0, 岩浆 覆盖板
+ThermalDynamics:cover:0, 岩浆 覆盖板
+ThermalDynamics:cover:0, 岩浆 覆盖板
+ThermalDynamics:cover:0, 岩浆 覆盖板
+ThermalDynamics:cover:0, 岩浆 覆盖板
+ThermalDynamics:cover:0, 岩浆 覆盖板
+ThermalDynamics:cover:0, 岩浆 覆盖板
+ThermalDynamics:cover:0, 冰 覆盖板
+ThermalDynamics:cover:0, 冰 覆盖板
+ThermalDynamics:cover:0, 冰 覆盖板
+ThermalDynamics:cover:0, 冰 覆盖板
+ThermalDynamics:cover:0, 冰 覆盖板
+ThermalDynamics:cover:0, 冰 覆盖板
+ThermalDynamics:cover:0, 冰 覆盖板
+ThermalDynamics:cover:0, 冰 覆盖板
+ThermalDynamics:cover:0, 冰 覆盖板
+ThermalDynamics:cover:0, 冰 覆盖板
+ThermalDynamics:cover:0, 冰 覆盖板
+ThermalDynamics:cover:0, 冰 覆盖板
+ThermalDynamics:cover:0, 冰 覆盖板
+ThermalDynamics:cover:0, 冰 覆盖板
+ThermalDynamics:cover:0, 冰 覆盖板
+ThermalDynamics:cover:0, 冰 覆盖板
+ThermalDynamics:cover:0, 冰 覆盖板
 ThermalDynamics:cover:0, 无网滤清器 覆盖板
 ThermalDynamics:cover:0, 宽松滤清器 覆盖板
 ThermalDynamics:cover:0, 条形滤清器 覆盖板
