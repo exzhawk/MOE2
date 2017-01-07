@@ -43,7 +43,7 @@ settings:
     ForceSingleSession: true
     ForceSpawnLocOnJoinEnabled: false
     SaveQuitLocation: false
-    AllowRestrictedUser: false
+    AllowRestrictedUser: true
     AllowedRestrictedUser:
     - playername;127.0.0.1
     kickNonRegistered: false
@@ -86,7 +86,8 @@ settings:
     forceKickAfterRegister: false
     forceLoginAfterRegister: false
   unrestrictions:
-    UnrestrictedName: []
+    UnrestrictedName: 
+      - '[BuildCraft]'
   messagesLanguage: en
   forceCommands: []
   forceCommandsAsConsole: []
