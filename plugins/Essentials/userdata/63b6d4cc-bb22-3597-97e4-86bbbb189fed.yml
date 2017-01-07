@@ -1,0 +1,33 @@
+uuid: 63b6d4cc-bb22-3597-97e4-86bbbb189fed
+timestamps:
+  login: 1426732102985
+  kits:
+    tools: 1423714535927
+  lastteleport: 1426658132804
+  logout: 1426732124287
+ipAddress: 221.219.227.55
+lastlocation:
+  world: SDYG6th
+  x: 679.5
+  y: 148.0
+  z: 233.5
+  yaw: -115.5585
+  pitch: 48.82498
+logoutlocation:
+  world: SDYG6th
+  x: 680.5792224584253
+  y: 148.0
+  z: 233.3178737768924
+  yaw: -121.163925
+  pitch: 18.649883
+afk: false
+homes:
+  home:
+    world: SDYG6th
+    x: 680.3012414466197
+    y: 148.0
+    z: 233.24120554510236
+    yaw: -115.5585
+    pitch: 48.82498
+nickname: GangXiGua
+lastAccountName: pray_wing

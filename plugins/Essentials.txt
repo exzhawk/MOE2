@@ -1,0 +1,8 @@
+Development on Essentials for Bukkit is currently suspended due to the DMCA issue.
+There is no stable officially supported build for 1.7.10 or 1.8+
+
+This is the 'pre-release' for 1.7.10, adding real uuid support, this version will not work with 1.8 builds.
+
+We are currently intending on transitioning to the Sponge project for post 1.8 development.
+
+For updates on this follow @KHobbits on twitter.

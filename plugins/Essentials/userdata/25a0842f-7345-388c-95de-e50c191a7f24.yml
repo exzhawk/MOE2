@@ -1,0 +1,21 @@
+logoutlocation:
+  world: whatthefuck
+  x: -935.0596776584549
+  y: 63.5
+  z: 531.8990373735601
+  yaw: 92.162254
+  pitch: 8.1615505
+uuid: 25a0842f-7345-388c-95de-e50c191a7f24
+timestamps:
+  login: 1433340365355
+  logout: 1433342619827
+  lastteleport: 1433321436015
+ipAddress: 115.26.4.1
+lastlocation:
+  world: whatthefuck
+  x: -704.5150802211615
+  y: 61.78494790196112
+  z: 713.6823565187146
+  yaw: 279.30145
+  pitch: 1.9892664
+lastAccountName: xifei

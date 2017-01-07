@@ -1,0 +1,20 @@
+uuid: d1d4415d-0e87-313d-8935-3d5d4c18106c
+timestamps:
+  login: 1426490572934
+  logout: 1426490599296
+ipAddress: 124.65.200.202
+lastlocation:
+  world: SDYG6th
+  x: 1032.5
+  y: 53.0
+  z: 1020.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: SDYG6th
+  x: -1010.5
+  y: 109.0
+  z: 1020.5
+  yaw: 180.97467
+  pitch: 3.1380143
+lastAccountName: yamxita

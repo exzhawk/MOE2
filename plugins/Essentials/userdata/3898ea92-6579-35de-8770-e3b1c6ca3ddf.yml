@@ -1,0 +1,32 @@
+uuid: 3898ea92-6579-35de-8770-e3b1c6ca3ddf
+timestamps:
+  login: 1423835464714
+  kits:
+    tools: 1423657816832
+  lastteleport: 1423750863819
+  logout: 1423840888762
+ipAddress: 171.123.206.245
+lastlocation:
+  world: SDYG6th
+  x: -1014.9256570135547
+  y: 109.0
+  z: 1009.4681930351566
+  yaw: 191.92505
+  pitch: 26.38801
+logoutlocation:
+  world: SDYG6th
+  x: 720.2886133677187
+  y: 160.0
+  z: 1821.725612411872
+  yaw: 177.20605
+  pitch: 16.950684
+afk: false
+homes:
+  home:
+    world: SDYG6th
+    x: 719.4419539308057
+    y: 161.0
+    z: 1824.029735125305
+    yaw: -181.08215
+    pitch: 17.099777
+lastAccountName: nmalt

@@ -1,0 +1,29 @@
+uuid: 85e1ea3f-4f8b-346e-951d-f1f91cd85870
+timestamps:
+  login: 1472472273336
+  logout: 1472472322238
+  lastteleport: 1472012839982
+ipAddress: 180.201.223.240
+logoutlocation:
+  world: world
+  x: 515.9081686296312
+  y: 100.0
+  z: 699.6087181919586
+  yaw: -111.213066
+  pitch: 27.606678
+lastlocation:
+  world: world
+  x: 1126.5610182450625
+  y: 94.0
+  z: 541.5725941691488
+  yaw: 50.245632
+  pitch: 1.3605751
+homes:
+  home:
+    world: world
+    x: 526.3021349291266
+    y: 102.0
+    z: 680.5603717733793
+    yaw: 279.33438
+    pitch: 11.895219
+lastAccountName: lzlniu

@@ -1,0 +1,22 @@
+uuid: cfdd0823-f991-35cd-8590-5f4b256bc686
+timestamps:
+  login: 1422781476584
+  lastteleport: 1422690288850
+  logout: 1422781768252
+ipAddress: 172.45.253.8
+lastlocation:
+  world: SDYG6th
+  x: -1006.491545180422
+  y: 109.0
+  z: 1009.1273067023297
+  yaw: -156.22565
+  pitch: 14.088027
+logoutlocation:
+  world: SDYG6th
+  x: 1451.6563056412715
+  y: 165.0
+  z: 926.5101409664538
+  yaw: -58.03235
+  pitch: 22.800005
+afk: false
+lastAccountName: noooooo

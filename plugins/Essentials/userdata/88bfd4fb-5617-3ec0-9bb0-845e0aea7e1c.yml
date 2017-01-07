@@ -1,0 +1,30 @@
+uuid: 88bfd4fb-5617-3ec0-9bb0-845e0aea7e1c
+timestamps:
+  login: 1479040940825
+  logout: 1479053866468
+  lastteleport: 1479053226017
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: 1130.2194750773194
+  y: 94.0
+  z: 536.2324194676431
+  yaw: 103.20909
+  pitch: 13.671673
+afk: false
+logoutlocation:
+  world: world
+  x: 214.99908620205326
+  y: 101.0
+  z: 763.9065797213169
+  yaw: -32.754456
+  pitch: 10.110736
+homes:
+  home:
+    world: world
+    x: 518.1363733135623
+    y: 101.0
+    z: 691.6216764542846
+    yaw: -45.371216
+    pitch: 27.81626
+lastAccountName: oscar_tong_xue

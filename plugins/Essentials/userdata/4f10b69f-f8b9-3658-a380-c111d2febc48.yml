@@ -1,0 +1,31 @@
+uuid: 4f10b69f-f8b9-3658-a380-c111d2febc48
+timestamps:
+  login: 1423764490207
+  kits:
+    tools: 1423577980721
+  logout: 1423764714041
+  lastteleport: 1423582012606
+ipAddress: 182.136.253.174
+lastlocation:
+  world: SDYG6th
+  x: -1007.7610704342889
+  y: 109.0
+  z: 1009.9719178763584
+  yaw: 195.67467
+  pitch: 25.488018
+logoutlocation:
+  world: SDYG6th
+  x: 1151.68859004024
+  y: 150.0
+  z: 963.0749999880791
+  yaw: -1.6055908
+  pitch: -0.4499871
+homes:
+  home:
+    world: SDYG6th
+    x: 1151.479692734331
+    y: 148.0
+    z: 961.6174066262987
+    yaw: -2.05896
+    pitch: 27.000143
+lastAccountName: crinic

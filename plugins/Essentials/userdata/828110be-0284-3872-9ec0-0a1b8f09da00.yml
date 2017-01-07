@@ -1,0 +1,30 @@
+uuid: 828110be-0284-3872-9ec0-0a1b8f09da00
+timestamps:
+  login: 1479053302773
+  logout: 1479055234179
+  lastteleport: 1478966538866
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: 213.62027194584255
+  y: -30.104560848177783
+  z: 771.4557191321055
+  yaw: -229.49988
+  pitch: 82.2001
+homes:
+  home:
+    world: world
+    x: 210.0362044558684
+    y: 116.0
+    z: 783.4648643948743
+    yaw: 142.75983
+    pitch: 35.17576
+logoutlocation:
+  world: world
+  x: 211.01953612893087
+  y: 89.0
+  z: 761.4274652276105
+  yaw: 177.30011
+  pitch: 41.549965
+afk: false
+lastAccountName: yukinetare

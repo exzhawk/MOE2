@@ -1,0 +1,30 @@
+uuid: 1e3dc24d-b0d7-3cc5-884d-62e52c80aaca
+timestamps:
+  login: 1473076801477
+  logout: 1473091630973
+  lastteleport: 1473089021219
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: 206.64927803828553
+  y: 93.0
+  z: 783.2398834673633
+  yaw: -39.657146
+  pitch: 15.663815
+logoutlocation:
+  world: DIM-37
+  x: -340.3000000119209
+  y: 5.0
+  z: 733.3000000119209
+  yaw: 82.08002
+  pitch: 25.40402
+afk: false
+homes:
+  home:
+    world: world
+    x: 536.2553123216849
+    y: 102.0
+    z: 682.4244937866212
+    yaw: 123.05632
+    pitch: 23.62654
+lastAccountName: yinzl

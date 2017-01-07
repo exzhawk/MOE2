@@ -1,0 +1,21 @@
+lastAccountName: BEibei
+timestamps:
+  login: 1483690182905
+  logout: 1483690204822
+ipAddress: 127.0.0.1
+lastlocation:
+  world: moe2nd
+  x: -696.4245864225448
+  y: 76.0
+  z: 1112.7780081565134
+  yaw: 69.30388
+  pitch: 12.1892605
+logoutlocation:
+  world: moe2nd
+  x: 778.8227875555126
+  y: 77.0
+  z: 951.9648160357438
+  yaw: 213.62785
+  pitch: 5.9829974
+socialspy: false
+afk: false

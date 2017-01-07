@@ -1,0 +1,30 @@
+uuid: 3ca06b4d-24d6-3e18-b00f-b5caafb47a8f
+timestamps:
+  login: 1483699881012
+  logout: 1483701345083
+  lastteleport: 1483700127651
+ipAddress: 127.0.0.1
+lastlocation:
+  world: moe2nd
+  x: -735.3171176093668
+  y: 92.0
+  z: 1200.1233378928628
+  yaw: -2.6767828
+  pitch: 16.997799
+logoutlocation:
+  world: moe2nd
+  x: 681.2949947508978
+  y: 65.0
+  z: 1063.2145751317967
+  yaw: -159.57043
+  pitch: -28.058706
+homes:
+  home:
+    world: SDYG6th
+    x: 877.5
+    y: 144.0
+    z: 1907.5
+    yaw: -3.9328399
+    pitch: 83.153946
+lastAccountName: Touchann
+socialspy: false

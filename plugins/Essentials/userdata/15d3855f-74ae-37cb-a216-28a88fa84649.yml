@@ -1,0 +1,22 @@
+uuid: 15d3855f-74ae-37cb-a216-28a88fa84649
+timestamps:
+  login: 1432287822218
+  logout: 1432289750202
+  lastteleport: 1432288270365
+ipAddress: 58.33.169.99
+lastlocation:
+  world: whatthefuck
+  x: -923.6441087807166
+  y: 63.5
+  z: 532.5662435705646
+  yaw: 117.41298
+  pitch: 7.1661882
+logoutlocation:
+  world: whatthefuck
+  x: -1036.6761638059938
+  y: 64.0
+  z: 551.630376741911
+  yaw: -93.510956
+  pitch: 33.893017
+afk: false
+lastAccountName: foolishhuman_1

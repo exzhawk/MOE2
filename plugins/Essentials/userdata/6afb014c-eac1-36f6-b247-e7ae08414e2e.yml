@@ -1,0 +1,21 @@
+uuid: 6afb014c-eac1-36f6-b247-e7ae08414e2e
+timestamps:
+  login: 1423649141361
+  lastteleport: 1423649177539
+  logout: 1423649256622
+ipAddress: 114.243.105.99
+lastlocation:
+  world: SDYG6th
+  x: -1008.1173313392346
+  y: 109.0
+  z: 1013.7085787887072
+  yaw: 240.801
+  pitch: 27.393347
+logoutlocation:
+  world: SDYG6th
+  x: -1008.6790676180626
+  y: 109.0
+  z: 1010.7813393270798
+  yaw: 303.72388
+  pitch: 29.698399
+lastAccountName: 'no'

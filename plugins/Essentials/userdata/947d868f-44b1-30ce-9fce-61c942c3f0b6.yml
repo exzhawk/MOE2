@@ -1,0 +1,34 @@
+uuid: 947d868f-44b1-30ce-9fce-61c942c3f0b6
+timestamps:
+  login: 1483633544956
+  lastteleport: 1483543182613
+  logout: 1483633876100
+  kits:
+    tools: 1471767005720
+ipAddress: 127.0.0.1
+lastlocation:
+  world: moe2nd
+  x: 770.6999999880791
+  y: 28.0
+  z: 850.3000000119209
+  yaw: 58.1438
+  pitch: 17.648813
+logoutlocation:
+  world: moe2nd
+  x: 786.2745360017893
+  y: 81.0
+  z: 949.6655363357347
+  yaw: 239.30823
+  pitch: 20.268486
+afk: false
+homes:
+  home:
+    world: world
+    x: 216.20330269410803
+    y: 115.0
+    z: 774.5603420637108
+    yaw: 270.1709
+    pitch: 9.483687
+nickname: Suika
+lastAccountName: Y_suika
+socialspy: false

@@ -1,0 +1,32 @@
+uuid: ef267f23-cc8f-3aca-879c-c3a7b5fcf677
+timestamps:
+  login: 1429536147675
+  lastteleport: 1429537611601
+  logout: 1429507044714
+  kits:
+    tools: 1425400914349
+ipAddress: 124.117.22.131
+lastlocation:
+  world: whatthefuck
+  x: -968.9310767729111
+  y: 69.0
+  z: 532.2621193747815
+  yaw: 85.72004
+  pitch: -2.8958445
+homes:
+  home:
+    world: whatthefuck
+    x: -1124.3421894546505
+    y: 71.0
+    z: 441.01778394486547
+    yaw: -28.821136
+    pitch: 14.145963
+logoutlocation:
+  world: whatthefuck
+  x: -1123.099101442193
+  y: 71.0
+  z: 437.3975285388512
+  yaw: -102.10095
+  pitch: 4.559284
+afk: false
+lastAccountName: pringles

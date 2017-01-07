@@ -1,0 +1,21 @@
+uuid: b68d6d17-c2da-3a95-b5c6-219828747056
+timestamps:
+  login: 1433414495413
+  lastteleport: 1433414512931
+  logout: 1433414808855
+ipAddress: 115.26.4.1
+lastlocation:
+  world: whatthefuck
+  x: -1351.4320629089482
+  y: 70.0
+  z: -105.02936423017087
+  yaw: -335.3302
+  pitch: 6.651788
+logoutlocation:
+  world: whatthefuck
+  x: -1116.8236623626885
+  y: 67.75
+  z: 570.5563160517802
+  yaw: 10.962541
+  pitch: 26.758944
+lastAccountName: rus

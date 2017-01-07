@@ -1,0 +1,32 @@
+uuid: bd3d05b3-1e50-3764-9f71-79269577b060
+timestamps:
+  login: 1428944864055
+  lastteleport: 1428949253757
+  kits:
+    tools: 1422896771322
+  logout: 1428950213002
+ipAddress: 139.216.123.161
+lastlocation:
+  world: whatthefuck
+  x: -1042.179657807387
+  y: 45.0
+  z: 538.7691955262549
+  yaw: -95.12588
+  pitch: 58.18717
+logoutlocation:
+  world: whatthefuck
+  x: -1163.403606074067
+  y: 68.0
+  z: 447.52467499072577
+  yaw: -91.72253
+  pitch: -33.300034
+afk: false
+homes:
+  home:
+    world: SDYG6th
+    x: 1447.709072556407
+    y: 165.0
+    z: 922.5411075985402
+    yaw: -87.8689
+    pitch: 24.162216
+lastAccountName: milktea_s

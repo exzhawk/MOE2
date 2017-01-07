@@ -1,0 +1,29 @@
+uuid: e6f5b613-682b-3c54-be75-f3cb99a52cf9
+timestamps:
+  login: 1425380038080
+  lastteleport: 1425380080102
+  logout: 1425380302160
+ipAddress: 110.152.166.164
+lastlocation:
+  world: SDYG6th
+  x: -1007.7220099265617
+  y: 109.0
+  z: 1008.510543951926
+  yaw: 270.29486
+  pitch: 32.26547
+homes:
+  home:
+    world: SDYG6th
+    x: -1008.3715127803031
+    y: 109.0
+    z: 1010.1463401209628
+    yaw: 178.51282
+    pitch: 28.179241
+logoutlocation:
+  world: SDYG6th
+  x: 1396.203721122624
+  y: 144.0
+  z: 934.3057947250531
+  yaw: 44.358242
+  pitch: 8.717759
+lastAccountName: dong

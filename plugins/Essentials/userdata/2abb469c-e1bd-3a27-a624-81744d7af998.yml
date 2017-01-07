@@ -1,0 +1,21 @@
+uuid: 2abb469c-e1bd-3a27-a624-81744d7af998
+timestamps:
+  login: 1423763583732
+  lastteleport: 1422685128488
+  logout: 1423763758179
+ipAddress: 113.233.158.188
+lastlocation:
+  world: SDYG6th
+  x: 1019.5
+  y: 48.0
+  z: 1032.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: SDYG6th
+  x: -1013.3604668442399
+  y: 109.0
+  z: 998.7496176345353
+  yaw: -182.84778
+  pitch: 21.864622
+lastAccountName: atarss

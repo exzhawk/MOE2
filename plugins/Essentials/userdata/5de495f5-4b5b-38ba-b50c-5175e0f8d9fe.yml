@@ -1,0 +1,30 @@
+uuid: 5de495f5-4b5b-38ba-b50c-5175e0f8d9fe
+timestamps:
+  login: 1428816661714
+  lastteleport: 1428554799074
+  logout: 1428817448559
+ipAddress: 111.193.8.196
+lastlocation:
+  world: SDYG6th
+  x: -1007.4218615985349
+  y: 109.0
+  z: 1010.2113700260364
+  yaw: -141.33157
+  pitch: 29.649359
+logoutlocation:
+  world: SDYG6th
+  x: 2026.5558667067025
+  y: 171.00133597911216
+  z: 1758.0279007014733
+  yaw: 125.57556
+  pitch: 30.121136
+afk: false
+homes:
+  home:
+    world: SDYG6th
+    x: 2023.6694152195694
+    y: 164.0
+    z: 1745.8952880758977
+    yaw: 267.80786
+    pitch: -21.532837
+lastAccountName: yamaxita

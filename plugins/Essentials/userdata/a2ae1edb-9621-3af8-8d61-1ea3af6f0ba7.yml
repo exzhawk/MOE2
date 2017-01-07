@@ -1,0 +1,22 @@
+uuid: a2ae1edb-9621-3af8-8d61-1ea3af6f0ba7
+timestamps:
+  login: 1423891165838
+  lastteleport: 1423891518141
+  logout: 1423891677445
+ipAddress: 114.243.105.99
+lastlocation:
+  world: SDYG6th
+  x: -1007.2097066126369
+  y: 109.0
+  z: 1014.145405845739
+  yaw: -146.86511
+  pitch: 31.374775
+logoutlocation:
+  world: DIM-1
+  x: 64.39697136025944
+  y: 37.0
+  z: 154.8449815149865
+  yaw: 170.02147
+  pitch: 19.524504
+afk: false
+lastAccountName: noo

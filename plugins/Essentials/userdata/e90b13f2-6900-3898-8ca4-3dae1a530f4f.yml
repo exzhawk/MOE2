@@ -1,0 +1,33 @@
+uuid: e90b13f2-6900-3898-8ca4-3dae1a530f4f
+timestamps:
+  login: 1483783640426
+  logout: 1483782405705
+  lastteleport: 1483791942050
+  kits:
+    tools: 1423748071328
+ipAddress: 127.0.0.1
+lastlocation:
+  world: moe2nd
+  x: 781.3927084461816
+  y: 64.0
+  z: 907.8163543585324
+  yaw: -242.39742
+  pitch: 6.305843
+logoutlocation:
+  world: moe2nd
+  x: 785.9914042298124
+  y: 79.0
+  z: 941.1103425652451
+  yaw: 38.80044
+  pitch: 30.050747
+homes:
+  home:
+    world: moe2nd
+    x: 788.6528301034125
+    y: 79.0
+    z: 937.086017666189
+    yaw: 177.32053
+    pitch: 12.77344
+lastAccountName: Oscar
+socialspy: false
+afk: false

@@ -1,0 +1,33 @@
+uuid: 288bb38f-b5bf-3222-bed3-b391be952ae9
+timestamps:
+  login: 1483679016305
+  kits:
+    tools: 1423913996106
+  lastteleport: 1483500293985
+  logout: 1483682407435
+ipAddress: 10.104.253.205
+lastlocation:
+  world: moe2nd
+  x: 786.25256375055
+  y: 79.0
+  z: 941.3668411927869
+  yaw: -3.2482505
+  pitch: 49.751186
+homes:
+  home:
+    world: SDYG6th
+    x: 1149.8513611903277
+    y: 148.0
+    z: 957.9375078614443
+    yaw: 90.792114
+    pitch: 27.292244
+logoutlocation:
+  world: moe2nd
+  x: 783.6074991172679
+  y: 78.0
+  z: 943.097172632555
+  yaw: -129.94714
+  pitch: 14.903218
+lastAccountName: hanyuwei70
+socialspy: false
+afk: false

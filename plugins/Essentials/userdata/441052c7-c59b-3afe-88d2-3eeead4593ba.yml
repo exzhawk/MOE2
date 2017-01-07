@@ -1,0 +1,32 @@
+uuid: 441052c7-c59b-3afe-88d2-3eeead4593ba
+timestamps:
+  login: 1432712408965
+  logout: 1432712412175
+  lastteleport: 1432668546388
+  kits:
+    tools: 1429617252438
+ipAddress: 221.219.229.29
+lastlocation:
+  world: whatthefuck
+  x: -1250.300000011921
+  y: 71.0
+  z: -55.29549449979551
+  yaw: 219.44234
+  pitch: -6.2355375
+logoutlocation:
+  world: whatthefuck
+  x: -1138.5
+  y: 71.0
+  z: 432.5
+  yaw: 173.42245
+  pitch: 8.697735
+homes:
+  home:
+    world: whatthefuck
+    x: -1138.335567449249
+    y: 71.0
+    z: 432.69999998807907
+    yaw: 183.48082
+    pitch: 19.070425
+afk: false
+lastAccountName: fv215b183

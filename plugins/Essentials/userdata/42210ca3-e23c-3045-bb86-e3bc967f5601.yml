@@ -1,0 +1,30 @@
+uuid: 42210ca3-e23c-3045-bb86-e3bc967f5601
+timestamps:
+  login: 1429283635226
+  logout: 1429283669904
+  lastteleport: 1429169172255
+ipAddress: 123.119.83.232
+lastlocation:
+  world: whatthefuck
+  x: -1144.1613422121054
+  y: 71.0
+  z: 436.61108047769324
+  yaw: -177.97238
+  pitch: 29.076406
+homes:
+  home:
+    world: whatthefuck
+    x: -1121.2875009618404
+    y: 68.0
+    z: 437.17759510294724
+    yaw: -216.36736
+    pitch: 31.112295
+logoutlocation:
+  world: whatthefuck
+  x: -1085.119471264247
+  y: 65.0
+  z: 564.0654499053078
+  yaw: 278.26355
+  pitch: 23.05186
+afk: false
+lastAccountName: bot_mark

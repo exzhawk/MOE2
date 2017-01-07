@@ -1,0 +1,24 @@
+uuid: 003073c2-9ef3-3598-9474-54c04c7e21c7
+timestamps:
+  login: 1423927812252
+  lastteleport: 1423928986057
+  logout: 1423929076185
+  kits:
+    tools: 1422794556732
+ipAddress: 114.243.105.99
+lastlocation:
+  world: SDYG6th
+  x: -1007.8779716235053
+  y: 109.0
+  z: 1012.4146064846167
+  yaw: 271.76202
+  pitch: 32.63207
+logoutlocation:
+  world: SDYG6th
+  x: 310.5132227271502
+  y: 146.0
+  z: 1233.4796978044187
+  yaw: 109.94081
+  pitch: 22.353424
+afk: false
+lastAccountName: noooo

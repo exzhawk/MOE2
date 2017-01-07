@@ -1,0 +1,32 @@
+uuid: 59adcd70-f08a-3651-88ac-cb016c2ee322
+timestamps:
+  login: 1429170918244
+  logout: 1429171990481
+  lastteleport: 1429171049754
+  kits:
+    tools: 1429165448560
+ipAddress: 111.193.13.22
+lastlocation:
+  world: whatthefuck
+  x: -1127.5
+  y: 70.0
+  z: 459.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: whatthefuck
+  x: -1127.300000011921
+  y: 70.0
+  z: 460.69999998807907
+  yaw: 0.0
+  pitch: 0.0
+homes:
+  home:
+    world: whatthefuck
+    x: -1120.8997906629336
+    y: 68.0
+    z: 438.67153832058506
+    yaw: 235.91951
+    pitch: 13.138366
+afk: false
+lastAccountName: shine

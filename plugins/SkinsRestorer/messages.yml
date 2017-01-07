@@ -1,0 +1,28 @@
+NOT_PLAYER: '&cYou need to be a player!'
+NOT_ONLINE: '&cPlayer is not online!'
+SKIN_CHANGE_SKIN_DATA_CLEARED: '&9Your skin data has been removed.'
+SKIN_COOLDOWN: '&cYou can change your skin only once per %s seconds.'
+SKIN_CHANGE_SUCCESS: '&9Your skin has been updated.'
+SKIN_CHANGE_SUCCESS_DATABASE: '&9Your skin has been updated from database.'
+PLAYER_HAS_NO_PERMISSION: '&cYou don''t have permission to do this.'
+SKIN_DISABLED: '&cThis skin is disabled by an Administrator.'
+UNKNOWN_COMMAND: Unknown command. Type "/help" for help.
+ALT_API_FAILED: '&cAPI is overloaded, please try again later!'
+NOT_PREMIUM: '&cPremium player with that name does not exist.'
+RATE_LIMITED: '&cRate limited. Please wait 10 minutes before requesting the same skin
+  again.'
+GENERIC_ERROR: '&cAn error occured while requesting skin data.'
+SKIN_DATA_DROPPED: '&9Skin data for player %player dropped.'
+SKIN_DATA_SAVED: '&9Skin data saved successfully.'
+SKIN_DATA_UPDATED: '&9Skin data updated.'
+PLAYER_HELP: "&e&m-------------&r&8[ &aSkinsRestorer &8]&e&m-------------&r\n &9/skin\
+  \ <skinname> &f-&a Sets your skin."
+ADMIN_SET_SKIN: You set %player''s skin.
+ADMIN_HELP: "&a&m-------------&r&8[ &9SkinsRestorer Admin &8]&a&m-------------&r\n\
+  \ &9/skinsrestorer set <player> <skin name> &9-&a Sets Player's skin.\n&9/skinsrestorer\
+  \ drop <player> &9-&a Drops player skin data.\n &9/skinsrestorer debug &9- &aCreates\
+  \ a debug.txt file for reporting issues\n &9/skinsrestorer reload &9- &aReloads\
+  \ the config and locale\n &9/skinsrestorer props [player] &9- &aReloads the config\
+  \ and locale"
+RELOAD: '&9Config and Locale has been reloaded!'
+NO_SKIN_DATA: '&9No skin data!'

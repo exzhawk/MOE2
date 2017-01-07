@@ -1,0 +1,21 @@
+uuid: 8b74b663-3e1f-35b0-8f55-3c2c407e96f6
+timestamps:
+  login: 1423645255995
+  lastteleport: 1423645294736
+  logout: 1423645367298
+ipAddress: 114.243.105.99
+lastlocation:
+  world: SDYG6th
+  x: -1006.3402689372645
+  y: 109.0
+  z: 1009.5289466323712
+  yaw: 195.80028
+  pitch: 42.166576
+logoutlocation:
+  world: SDYG6th
+  x: 1452.6264490543376
+  y: 170.0
+  z: 918.4547529071392
+  yaw: 54.36563
+  pitch: 24.04433
+lastAccountName: yada
