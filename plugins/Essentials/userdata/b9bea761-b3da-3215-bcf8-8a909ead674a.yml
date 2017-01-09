@@ -1,23 +1,23 @@
 uuid: b9bea761-b3da-3215-bcf8-8a909ead674a
 timestamps:
-  login: 1483786264597
-  lastteleport: 1483792300943
-  logout: 1483784574127
+  login: 1483959805628
+  lastteleport: 1483881158391
+  logout: 1483960237274
 ipAddress: 127.0.0.1
 lastlocation:
   world: moe2nd
-  x: 785.5422942299057
-  y: 77.0
-  z: 946.4636337757421
-  yaw: 114.58072
-  pitch: -5.777549
+  x: -52.0
+  y: 100.0
+  z: 2648.0
+  yaw: 0.16875142
+  pitch: 0.6187552
 logoutlocation:
   world: moe2nd
-  x: 31.699999988079067
-  y: 72.0
-  z: 2586.413291597088
-  yaw: 313.82104
-  pitch: 13.662491
+  x: 770.7590265480626
+  y: 79.625
+  z: 959.3816114323572
+  yaw: 73.594536
+  pitch: 27.055676
 homes:
   home:
     world: moe2nd
@@ -28,3 +28,4 @@ homes:
     pitch: 38.693993
 lastAccountName: fenglinshui
 socialspy: false
+afk: false

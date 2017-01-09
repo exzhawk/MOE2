@@ -1,34 +1,34 @@
 uuid: 7eee4142-37af-3eb7-b4b9-ed1eb9290900
 timestamps:
-  login: 1483789922563
-  lastteleport: 1483791986704
-  logout: 1483789801626
+  login: 1483871500280
+  lastteleport: 1483885029072
+  logout: 1483887588210
   kits:
     tools: 1471787182298
 ipAddress: 127.0.0.1
 lastlocation:
-  world: moe2nd
-  x: 335.5478218498388
-  y: 139.0
-  z: 1064.054665333452
-  yaw: -112.905785
-  pitch: -26.850159
+  world: DIM7
+  x: 623.3056414631651
+  y: 33.0
+  z: 892.5368695607552
+  yaw: -234.73718
+  pitch: 62.699986
 logoutlocation:
   world: moe2nd
-  x: 170.48552329897973
-  y: 252.0
-  z: 931.1737215412302
-  yaw: -89.58676
-  pitch: 47.14793
+  x: 817.997151319659
+  y: 72.0
+  z: 938.6143554383011
+  yaw: -273.4458
+  pitch: 46.79993
 afk: false
 homes:
   home:
     world: moe2nd
-    x: 789.1535515091334
-    y: 79.0
-    z: 933.6761976806106
-    yaw: 340.3921
-    pitch: 6.150081
+    x: -229.37302887761476
+    y: 169.875
+    z: 1211.8476240287587
+    yaw: -119.24862
+    pitch: 39.75019
 nickname: Epix
 lastAccountName: EpixZhang
 socialspy: false

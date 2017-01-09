@@ -86,8 +86,8 @@ settings:
     forceKickAfterRegister: false
     forceLoginAfterRegister: false
   unrestrictions:
-    UnrestrictedName: 
-      - '[BuildCraft]'
+    UnrestrictedName:
+    - '[BuildCraft]'
   messagesLanguage: en
   forceCommands: []
   forceCommandsAsConsole: []
