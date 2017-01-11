@@ -88,6 +88,7 @@ settings:
   unrestrictions:
     UnrestrictedName:
     - '[BuildCraft]'
+    - '[OpenComputers]'
   messagesLanguage: en
   forceCommands: []
   forceCommandsAsConsole: []
