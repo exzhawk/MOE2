@@ -50,11 +50,11 @@ teleport-safety: true
 teleport-cooldown: 60
 
 # The delay, in seconds, before a user actually teleports.  If the user moves or gets attacked in this timeframe, the teleport never occurs.
-teleport-delay: 10
+teleport-delay: 0
 
 # The delay, in seconds, a player can't be attacked by other players after they have been teleported by a command.
 # This will also prevent the player attacking other players.
-teleport-invulnerability: 10
+teleport-invulnerability: 0
 
 # The delay, in seconds, required between /heal or /feed attempts.
 heal-cooldown: 3600
