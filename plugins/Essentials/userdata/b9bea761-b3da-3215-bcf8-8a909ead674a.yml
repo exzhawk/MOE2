@@ -1,23 +1,23 @@
 uuid: b9bea761-b3da-3215-bcf8-8a909ead674a
 timestamps:
-  login: 1483959805628
-  lastteleport: 1483881158391
-  logout: 1483960237274
+  login: 1485480431253
+  lastteleport: 1485005093435
+  logout: 1485480786216
 ipAddress: 127.0.0.1
 lastlocation:
   world: moe2nd
-  x: -52.0
-  y: 100.0
-  z: 2648.0
-  yaw: 0.16875142
-  pitch: 0.6187552
+  x: 157.14844875310774
+  y: 238.9921875
+  z: 949.3000000119209
+  yaw: 105.53885
+  pitch: 10.405477
 logoutlocation:
   world: moe2nd
-  x: 770.7590265480626
-  y: 79.625
-  z: 959.3816114323572
-  yaw: 73.594536
-  pitch: 27.055676
+  x: 828.0187335386008
+  y: 156.0
+  z: 1001.1615300784787
+  yaw: 153.50836
+  pitch: 73.06858
 homes:
   home:
     world: moe2nd

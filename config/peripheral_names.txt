@@ -1,5 +1,7 @@
 #OpenPeripheral user-friendly names
 #class_name	user_name
+appeng.tile.networking.TileController	tilecontroller
+crazypants.enderio.machine.capbank.TileCapBank	tile_blockcapacitorbank_name
 net.minecraft.block.BlockJukebox$TileEntityJukebox	record_player
 net.minecraft.tileentity.TileEntityBeacon	beacon
 net.minecraft.tileentity.TileEntityBrewingStand	brewing_stand

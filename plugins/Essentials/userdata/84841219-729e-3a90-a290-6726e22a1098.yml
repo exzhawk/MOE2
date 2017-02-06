@@ -1,34 +1,34 @@
 uuid: 84841219-729e-3a90-a290-6726e22a1098
 timestamps:
-  login: 1483873830927
-  logout: 1483874636082
-  lastteleport: 1483874501291
+  login: 1486381586954
+  logout: 1486381647828
+  lastteleport: 1485426273976
   kits:
     tools: 1471752461698
 ipAddress: 127.0.0.1
 lastlocation:
-  world: DIM1
-  x: 5.513653239765
-  y: 106.27999999999999
-  z: 23.95218070565614
-  yaw: -3.4505148
-  pitch: 9.90008
+  world: moe2nd
+  x: 163.28698277284056
+  y: 252.9921875
+  z: 952.2636697109191
+  yaw: 105.14981
+  pitch: 33.749996
 logoutlocation:
   world: moe2nd
-  x: 774.3984050752764
-  y: 77.0
-  z: 948.8225079612079
-  yaw: 325.6504
-  pitch: 26.550032
+  x: 749.5830443443992
+  y: 80.875
+  z: 946.9873919187223
+  yaw: -310.12793
+  pitch: 76.350006
 homes:
   home:
     world: moe2nd
-    x: 787.1491910537342
-    y: 78.0
-    z: 942.6997810325618
-    yaw: -161.9281
-    pitch: 8.849998
+    x: 770.0783966774587
+    y: 84.42675554599813
+    z: 956.2894438568005
+    yaw: -269.32837
+    pitch: 70.19999
 afk: false
-nickname: Pr
+nickname: boomboombooooom
 lastAccountName: Pr_wing
 socialspy: false
