@@ -21,7 +21,7 @@ common:
 updatechecker:
   quiet: false
   symlinks: KCauldron.jar
-  enable: true
+  enable: false
   autorestart: false
   autoinstall: false
 logging:
